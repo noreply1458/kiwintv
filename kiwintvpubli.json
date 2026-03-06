@@ -1,20 +1,24 @@
-[
-  {
-    "clickUrl": "https://www.instagram.com/pepsiargentina/",
-    "sponsorName": "Pepsi",
-    "skipAfter": 5,
-    "magnet": "magnet:?xt=urn:btih:43fc74c2e349d5decce7f358777b218f863e0019&dn=publicidad01.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
-  },
-  {
-    "clickUrl": "https://www.coca-cola.com/ar/es",
-    "sponsorName": "Coca-Cola",
-    "skipAfter": 5,
-    "magnet": "magnet:?xt=urn:btih:960b0e334b72d01ef984dcdd4e69979e284722eb&dn=publicidad02.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
-  },
-  {
-    "clickUrl": "https://www.ford.com.ar/",
-    "sponsorName": "Ford",
-    "skipAfter": 5,
-    "magnet": "magnet:?xt=urn:btih:9254e25131954c8b670abefe56f5622839c5977c&dn=publicidad03.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
-  }
-]
+{
+  "version": "0.0.1",
+  "costo": 100000,
+  "publicidades": [
+    {
+      "clickUrl": "https://www.instagram.com/pepsiargentina/",
+      "sponsorName": "Pepsi",
+      "skipAfter": 5,
+      "magnet": "magnet:?xt=urn:btih:43fc74c2e349d5decce7f358777b218f863e0019&dn=publicidad01.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+    },
+    {
+      "clickUrl": "https://www.coca-cola.com/ar/es",
+      "sponsorName": "Coca-Cola",
+      "skipAfter": 5,
+      "magnet": "magnet:?xt=urn:btih:960b0e334b72d01ef984dcdd4e69979e284722eb&dn=publicidad02.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+    },
+    {
+      "clickUrl": "https://www.ford.com.ar/",
+      "sponsorName": "Ford",
+      "skipAfter": 5,
+      "magnet": "magnet:?xt=urn:btih:9254e25131954c8b670abefe56f5622839c5977c&dn=publicidad03.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+    }
+  ]
+}
