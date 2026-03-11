@@ -15,6 +15,12 @@
       "sponsorName": "Coca-Cola",
       "skipAfter": 5,
       "video": "/publicidad02.mp4"
+    },
+    {
+      "clickUrl": "https://www.ford.com.ar/",
+      "sponsorName": "Ford",
+      "skipAfter": 5,
+      "video": "/publicidad03.mp4"
     }
   ]
 }
