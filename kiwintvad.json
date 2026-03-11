@@ -1,14 +1,21 @@
-[
-  {
-    "clickUrl": "https://www.instagram.com/pepsiargentina/",
-    "sponsorName": "Pepsi",
-    "skipAfter": 5,
-    "video": "/publicidad01.mp4"
-  },
-  {
-    "clickUrl": "https://www.coca-cola.com/ar/es",
-    "sponsorName": "Coca-Cola",
-    "skipAfter": 5,
-    "video": "/publicidad02.mp4"
-  }
-]
+{
+  "version": "0.0.1",
+  "downloaderLink": "https://go.aftvnews.com/9260213",
+  "downloaderCode": "9260213",
+  "costo": 100000,
+  "publicidades": [
+    {
+      "clickUrl": "https://www.instagram.com/pepsiargentina/",
+      "sponsorName": "Pepsi",
+      "skipAfter": 5,
+      "video": "/publicidad01.mp4"
+    },
+    {
+      "clickUrl": "https://www.coca-cola.com/ar/es",
+      "sponsorName": "Coca-Cola",
+      "skipAfter": 5,
+      "video": "/publicidad02.mp4"
+    }
+  ]
+}
+
