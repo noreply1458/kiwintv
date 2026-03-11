@@ -8,13 +8,13 @@
       "clickUrl": "https://www.instagram.com/pepsiargentina/",
       "sponsorName": "Pepsi",
       "skipAfter": 5,
-      "video": "/publicidad01.mp4"
+      "video": "https://i.imgur.com/6ki1uLZ.mp4"
     },
     {
       "clickUrl": "https://www.coca-cola.com/ar/es",
       "sponsorName": "Coca-Cola",
       "skipAfter": 5,
-      "video": "/publicidad02.mp4"
+      "video": "https://i.imgur.com/TTyLsMC.mp4"
     },
     {
       "clickUrl": "https://www.ford.com.ar/",
