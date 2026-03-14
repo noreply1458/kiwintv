@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KiwinTV | Estilo Netflix</title>
+    <!-- Google Fonts: Inter para un look moderno -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --netflix-red: #E50914;
+            --netflix-black: #000000;
+            --dark-grey: #181818;
+            --light-grey: #a3a3a3;
+            --white: #ffffff;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--netflix-black);
+            color: var(--white);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* Degradado de fondo tipo Netflix */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at top, rgba(229, 9, 20, 0.15) 0%, rgba(0,0,0,0) 60%);
+            z-index: -1;
+        }
+
+        .navbar {
+            width: 100%;
+            padding: 30px 5%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .logo-main {
+            height: 120px; /* Tamaño ajustado para el nuevo logo */
+            width: auto;
+            object-fit: contain;
+            transition: transform 0.3s ease;
+            filter: drop-shadow(0 0 15px rgba(0,0,0,0.8));
+        }
+
+        .logo-main:hover {
+            transform: scale(1.05);
+        }
+
+        .hero {
+            text-align: center;
+            padding: 20px 20px 40px;
+            max-width: 800px;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            font-weight: 900;
+            margin-bottom: 1rem;
+            line-height: 1.1;
+        }
+
+        .hero span {
+            color: var(--netflix-red);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            color: var(--light-grey);
+            margin-bottom: 30px;
+        }
+
+        .main-card {
+            background-color: var(--dark-grey);
+            width: 90%;
+            max-width: 450px;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 15px 40px rgba(0,0,0,0.7);
+            margin-bottom: 50px;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+
+        .step {
+            margin-bottom: 25px;
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .step-info {
+            margin-left: 15px;
+            text-align: left;
+        }
+
+        .step-info h3 {
+            font-size: 1.1rem;
+            margin-bottom: 4px;
+        }
+
+        .step-info p {
+            font-size: 0.9rem;
+            color: var(--light-grey);
+        }
+
+        .icon-box {
+            background: var(--netflix-red);
+            padding: 8px;
+            border-radius: 4px;
+            min-width: 35px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        /* Caja de código estilo "Cupón/Promo" */
+        .code-container {
+            background: #000;
+            border: 1px solid #333;
+            border-radius: 4px;
+            padding: 20px;
+            margin: 20px 0;
+            cursor: pointer;
+            transition: border-color 0.3s ease, background 0.3s ease;
+            position: relative;
+            text-align: center;
+        }
+
+        .code-container:hover {
+            border-color: var(--netflix-red);
+            background: #050505;
+        }
+
+        .code-label {
+            font-size: 0.7rem;
+            color: var(--light-grey);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .code-number {
+            font-size: 2.2rem;
+            font-weight: 900;
+            color: var(--white);
+            letter-spacing: 4px;
+        }
+
+        .copy-toast {
+            position: absolute;
+            bottom: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--netflix-red);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.7rem;
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+
+        .cta-button {
+            display: block;
+            width: 100%;
+            background-color: var(--netflix-red);
+            color: white;
+            text-align: center;
+            padding: 18px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            margin-top: 10px;
+            transition: background 0.2s, transform 0.1s;
+        }
+
+        .cta-button:hover {
+            background-color: #f40612;
+        }
+
+        .cta-button:active {
+            transform: scale(0.98);
+        }
+
+        .footer {
+            padding: 40px;
+            text-align: center;
+            color: #555;
+            font-size: 0.8rem;
+        }
+
+        .footer p {
+            margin-bottom: 10px;
+        }
+
+        /* Animación para el código al hacer clic */
+        .pulse {
+            animation: pulse-animation 0.5s;
+        }
+
+        @keyframes pulse-animation {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 1.8rem; }
+            .logo-main { height: 90px; }
+            .main-card { padding: 20px; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar">
+        <img src="https://i.imgur.com/T38w4Cz.png" alt="KiwinTV Logo" class="logo-main">
+    </nav>
+
+    <section class="hero">
+        <h1>Películas y TV gratis,<br>en minutos con <span>KiwinTV</span>.</h1>
+        <p>Seguí estos pasos para transformar tu TV hoy mismo.</p>
+    </section>
+
+    <main class="main-card">
+        <div class="step">
+            <div class="icon-box">1</div>
+            <div class="step-info">
+                <h3>Abrí en App o Play Store</h3>
+                <p>Buscá en tu Android TV o TV Box.</p>
+            </div>
+        </div>
+
+        <div class="step">
+            <div class="icon-box">2</div>
+            <div class="step-info">
+                <h3>Instalá Downloader AFTv</h3>
+                <p>Es la herramienta oficial de descarga.</p>
+            </div>
+        </div>
+
+        <div class="step">
+            <div class="icon-box">3</div>
+            <div class="step-info">
+                <h3>Ingresá el código</h3>
+                <p>Abrí Downloader y escribí lo siguiente:</p>
+            </div>
+        </div>
+
+        <div class="code-container" onclick="copyCode(this)">
+            <span class="code-label">Código Directo</span>
+            <div class="code-number" id="installCode">1858942</div>
+            <div class="copy-toast" id="toast">¡Copiado!</div>
+        </div>
+
+        <p style="text-align: center; font-size: 0.9rem; margin: 15px 0; color: var(--light-grey);">
+            ✅ La descarga iniciará automáticamente.
+        </p>
+
+        <a href="#" class="cta-button">¡LISTO PARA VER!</a>
+    </main>
+
+    <footer class="footer">
+        <p>#KiwinTV #AndroidTV #Streaming #CineEnCasa</p>
+        <p>© 2025 KiwinTV. Todo el contenido sin costo.</p>
+        <p>Contacto: no.reply.1458@gmail.com</p>
+    </footer>
+
+    <script>
+        function copyCode(element) {
+            const code = document.getElementById('installCode').innerText;
+            
+            // Copiar al portapapeles usando la API moderna si está disponible
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(code);
+            } else {
+                // Fallback para entornos no seguros
+                const tempInput = document.createElement("input");
+                tempInput.value = code;
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                document.execCommand("copy");
+                document.body.removeChild(tempInput);
+            }
+
+            // Efectos visuales
+            element.classList.add('pulse');
+            const toast = document.getElementById('toast');
+            toast.style.opacity = '1';
+
+            setTimeout(() => {
+                element.classList.remove('pulse');
+                toast.style.opacity = '0';
+            }, 1500);
+        }
+    </script>
+</body>
+</html>
