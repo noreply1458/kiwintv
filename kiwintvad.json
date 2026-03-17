@@ -1,13 +1,13 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "downloaderLink": "https://go.aftvnews.com/1858942",
-  "downloaderCode": "1858942",
+  "downloaderCode": "4909640",
   "costo": "100mil",
   "publicidades": [
     {
       "clickUrl": "https://www.instagram.com/pepsiargentina/",
       "sponsorName": "Pepsi",
-      "skipAfter": 5,
+      "skipAfter": 6,
       "video": "https://i.imgur.com/6ki1uLZ.mp4"
     },
     {
