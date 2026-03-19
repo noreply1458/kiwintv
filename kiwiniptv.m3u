@@ -1093,3 +1093,7 @@ http://195.66.210.10:80/Cta001/KfTwnUFGRD/199536.m3u8
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/577955.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/DAZN_Logo.svg",DAZN2.HD3
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/199538.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe
+https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
+#EXTINF:-1 tvg-id="Penthouse.us, Canal 512" tvg-logo="https://www.izzigo.tv/images/ch/190/LOGO/m/0" group-title="Adultos", Penthouse
+https://live1-ott.izzigo.tv/12/out/u/dash/PENTHOUSE-HD/default.mpd
