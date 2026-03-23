@@ -301,5 +301,11 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe
 https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
-#EXTINF:-1 tvg-id="Penthouse.us, Canal 512" tvg-logo="https://www.izzigo.tv/images/ch/190/LOGO/m/0" group-title="Adultos", Penthouse
-https://live1-ott.izzigo.tv/12/out/u/dash/PENTHOUSE-HD/default.mpd
+#EXTINF:-1 tvg-id="Penthouse Passion, Canal 514" tvg-logo="https://penthousetv.com/images/logo_phPassion.png" group-title="Adultos", Penthouse Passion
+https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
+#EXTINF:-1 tvg-id="Vivid TV, Canal 520" tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="Adultos", Vivid Red
+https://streams.alwaysdata.net/x?ch=vivid.m3u8
+#EXTINF:-1 tvg-id="Extasy, Canal 521" tvg-logo="https://extasy.tv/img/extasy-logo-pro-web.png" group-title="Adultos", Extasy
+https://streams.alwaysdata.net/x?ch=extasy.m3u8
+#EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="Adultos", EroXXX
+https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
