@@ -77,6 +77,8 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium4
 http://181.209.37.74:8001/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="LATINO 3", ESPN PREMIUM5
+http://45.5.151.62:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="FEBRERO-26", LOS SIMPSONS
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="FEBRERO-26", LOS SIMPSONS
