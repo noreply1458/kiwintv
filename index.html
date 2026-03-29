@@ -2,230 +2,334 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <title>KiwinTV</title>
-    <!-- Google Fonts: Inter para un look moderno -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --netflix-red: #E50914;
-            --netflix-black: #000000;
-            --dark-grey: #181818;
-            --light-grey: #a3a3a3;
+            --red: #E50914;
+            --black: #000000;
+            --dark: #141414;
+            --grey: #a3a3a3;
             --white: #ffffff;
         }
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
 
         body {
             font-family: 'Inter', sans-serif;
-            background-color: var(--netflix-black);
+            background-color: var(--black);
             color: var(--white);
             display: flex;
             flex-direction: column;
             align-items: center;
             min-height: 100vh;
             overflow-x: hidden;
+            max-width: 430px;
+            margin: 0 auto;
         }
 
-        /* Degradado de fondo tipo Netflix */
         body::before {
             content: "";
             position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(circle at top, rgba(229, 9, 20, 0.15) 0%, rgba(0,0,0,0) 60%);
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: radial-gradient(circle at top, rgba(229,9,20,0.18) 0%, rgba(0,0,0,0) 65%);
             z-index: -1;
         }
 
+        /* NAVBAR */
         .navbar {
             width: 100%;
-            padding: 30px 5%;
+            padding: 22px 5%;
             display: flex;
             justify-content: center;
             align-items: center;
         }
 
         .logo-main {
-            height: 120px; /* Tamaño ajustado para el nuevo logo */
+            height: 90px;
             width: auto;
             object-fit: contain;
-            transition: transform 0.3s ease;
-            filter: drop-shadow(0 0 15px rgba(0,0,0,0.8));
+            filter: drop-shadow(0 0 12px rgba(0,0,0,0.9));
+            transition: transform 0.3s;
         }
 
-        .logo-main:hover {
-            transform: scale(1.05);
-        }
+        .logo-main:hover { transform: scale(1.04); }
 
+        /* HERO TITLE */
         .hero {
             text-align: center;
-            padding: 20px 20px 40px;
-            max-width: 800px;
+            padding: 4px 18px 10px;
+            width: 100%;
+        }
+
+        .hero-badge {
+            display: inline-block;
+            background: var(--red);
+            color: #fff;
+            font-size: 0.62rem;
+            font-weight: 700;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            padding: 4px 12px;
+            border-radius: 2px;
+            margin-bottom: 12px;
         }
 
         .hero h1 {
-            font-size: 2.5rem;
-            font-weight: 900;
-            margin-bottom: 1rem;
-            line-height: 1.1;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 2.9rem;
+            line-height: 1.0;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 18px rgba(229,9,20,0.3);
         }
 
-        .hero span {
-            color: var(--netflix-red);
+        .pill-row {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 7px;
+            margin-bottom: 14px;
         }
 
-        .hero p {
-            font-size: 1.2rem;
-            color: var(--light-grey);
-            margin-bottom: 30px;
+        .pill {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.12);
+            border-radius: 50px;
+            padding: 5px 13px;
+            font-size: 0.78rem;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            color: #fff;
         }
 
-        .main-card {
-            background-color: var(--dark-grey);
+        .pill .dot {
+            width: 7px; height: 7px;
+            border-radius: 50%;
+        }
+
+        .pill:nth-child(1) .dot { background: #ff4d4d; }
+        .pill:nth-child(2) .dot { background: #4dd2ff; }
+        .pill:nth-child(3) .dot { background: #b44dff; }
+        .pill:nth-child(4) .dot { background: #4dff91; }
+
+        .hero-sub {
+            font-size: 0.9rem;
+            color: var(--grey);
+            margin-bottom: 4px;
+        }
+
+        /* VIDEO SECTION */
+        .video-section {
             width: 90%;
-            max-width: 450px;
-            border-radius: 8px;
-            padding: 30px;
-            box-shadow: 0 15px 40px rgba(0,0,0,0.7);
-            margin-bottom: 50px;
-            border: 1px solid rgba(255,255,255,0.05);
+            max-width: 420px;
+            margin: 14px auto 22px;
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+            box-shadow: 0 8px 35px rgba(229,9,20,0.25), 0 2px 12px rgba(0,0,0,0.7);
+            border: 1px solid rgba(229,9,20,0.25);
+            background: #000;
+        }
+
+        .video-label {
+            position: absolute;
+            top: 10px; left: 10px;
+            z-index: 3;
+            background: var(--red);
+            color: #fff;
+            font-size: 0.6rem;
+            font-weight: 800;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            padding: 3px 9px;
+            border-radius: 2px;
+        }
+
+        .video-section video {
+            width: 100%;
+            display: block;
+            border-radius: 10px;
+            max-height: 240px;
+            object-fit: cover;
+        }
+
+        /* MAIN CARD */
+        .main-card {
+            background-color: var(--dark);
+            width: 90%;
+            max-width: 420px;
+            border-radius: 10px;
+            padding: 24px 20px;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.7);
+            margin-bottom: 30px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+
+        .card-title {
+            font-size: 0.65rem;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--grey);
+            margin-bottom: 18px;
+            text-align: center;
         }
 
         .step {
-            margin-bottom: 25px;
+            margin-bottom: 20px;
             display: flex;
             align-items: flex-start;
         }
 
+        .icon-box {
+            background: var(--red);
+            padding: 7px 11px;
+            border-radius: 4px;
+            min-width: 32px;
+            text-align: center;
+            font-weight: 900;
+            font-size: 0.95rem;
+            flex-shrink: 0;
+        }
+
         .step-info {
-            margin-left: 15px;
+            margin-left: 14px;
             text-align: left;
         }
 
         .step-info h3 {
-            font-size: 1.1rem;
-            margin-bottom: 4px;
+            font-size: 1rem;
+            margin-bottom: 3px;
         }
 
         .step-info p {
-            font-size: 0.9rem;
-            color: var(--light-grey);
+            font-size: 0.82rem;
+            color: var(--grey);
         }
 
-        .icon-box {
-            background: var(--netflix-red);
-            padding: 8px;
-            border-radius: 4px;
-            min-width: 35px;
-            text-align: center;
-            font-weight: bold;
+        .divider {
+            height: 1px;
+            background: rgba(255,255,255,0.06);
+            margin: 4px 0 18px;
         }
 
-        /* Caja de código estilo "Cupón/Promo" */
         .code-container {
             background: #000;
-            border: 1px solid #333;
-            border-radius: 4px;
-            padding: 20px;
-            margin: 20px 0;
+            border: 1px solid #2a2a2a;
+            border-radius: 6px;
+            padding: 18px;
+            margin: 16px 0;
             cursor: pointer;
-            transition: border-color 0.3s ease, background 0.3s ease;
+            transition: border-color 0.3s, background 0.3s;
             position: relative;
             text-align: center;
         }
 
         .code-container:hover {
-            border-color: var(--netflix-red);
-            background: #050505;
+            border-color: var(--red);
+            background: #060606;
         }
 
         .code-label {
-            font-size: 0.7rem;
-            color: var(--light-grey);
+            font-size: 0.62rem;
+            color: var(--grey);
             text-transform: uppercase;
             letter-spacing: 2px;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             display: block;
         }
 
         .code-number {
-            font-size: 2.2rem;
-            font-weight: 900;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 2.6rem;
             color: var(--white);
-            letter-spacing: 4px;
+            letter-spacing: 6px;
+        }
+
+        .copy-hint {
+            font-size: 0.68rem;
+            color: #555;
+            margin-top: 6px;
         }
 
         .copy-toast {
             position: absolute;
-            bottom: -30px;
+            bottom: -28px;
             left: 50%;
             transform: translateX(-50%);
-            background: var(--netflix-red);
-            padding: 4px 12px;
+            background: var(--red);
+            padding: 4px 14px;
             border-radius: 20px;
-            font-size: 0.7rem;
+            font-size: 0.68rem;
+            font-weight: 700;
             opacity: 0;
             transition: opacity 0.3s;
             pointer-events: none;
+            white-space: nowrap;
+        }
+
+        .auto-dl {
+            text-align: center;
+            font-size: 0.82rem;
+            color: #5a5;
+            margin: 14px 0 6px;
         }
 
         .cta-button {
             display: block;
             width: 100%;
-            background-color: var(--netflix-red);
+            background: var(--red);
             color: white;
             text-align: center;
-            padding: 18px;
+            padding: 17px;
             text-decoration: none;
-            border-radius: 4px;
-            font-weight: bold;
-            font-size: 1.1rem;
-            margin-top: 10px;
+            border-radius: 5px;
+            font-weight: 900;
+            font-size: 1rem;
+            letter-spacing: 1.5px;
+            margin-top: 12px;
             transition: background 0.2s, transform 0.1s;
+            text-transform: uppercase;
         }
 
-        .cta-button:hover {
-            background-color: #f40612;
-        }
+        .cta-button:hover { background: #f40612; }
+        .cta-button:active { transform: scale(0.98); }
 
-        .cta-button:active {
-            transform: scale(0.98);
-        }
-
+        /* FOOTER */
         .footer {
-            padding: 40px;
+            padding: 24px 20px 40px;
             text-align: center;
-            color: #555;
-            font-size: 0.8rem;
+            color: #444;
+            font-size: 0.72rem;
+            width: 100%;
         }
 
-        .footer p {
-            margin-bottom: 10px;
-        }
-
-        /* Animación para el código al hacer clic */
-        .pulse {
-            animation: pulse-animation 0.5s;
-        }
+        .footer p { margin-bottom: 6px; }
 
         @keyframes pulse-animation {
             0% { transform: scale(1); }
-            50% { transform: scale(1.05); }
+            50% { transform: scale(1.04); }
             100% { transform: scale(1); }
         }
 
-        @media (max-width: 600px) {
-            .hero h1 { font-size: 1.8rem; }
-            .logo-main { height: 90px; }
-            .main-card { padding: 20px; }
+        .pulse { animation: pulse-animation 0.45s ease; }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
+
+        .hero, .video-section, .main-card {
+            animation: fadeInUp 0.6s ease both;
+        }
+
+        .video-section { animation-delay: 0.15s; }
+        .main-card { animation-delay: 0.28s; }
     </style>
 </head>
 <body>
@@ -235,15 +339,32 @@
     </nav>
 
     <section class="hero">
-        <h1>Películas y TV gratis,<br>en minutos con <span>KiwinTV</span>.</h1>
-        <p>Seguí estos pasos para transformar tu TV hoy mismo.</p>
+        <div class="hero-badge">🔥 100% Gratis · Sin registro</div>
+        <h1>TV GRATIS.<br>PELÍCULAS,<br>SERIES,<br>ANIME & RADIO.</h1>
+        <div class="pill-row">
+            <div class="pill"><span class="dot"></span>Películas</div>
+            <div class="pill"><span class="dot"></span>Series</div>
+            <div class="pill"><span class="dot"></span>Anime</div>
+            <div class="pill"><span class="dot"></span>Radio</div>
+        </div>
+        <p class="hero-sub">En minutos, en tu TV. Sin costo.</p>
     </section>
 
+    <!-- VIDEO DE LA APP -->
+    <div class="video-section">
+        <div class="video-label">▶ App en acción</div>
+        <video autoplay muted loop playsinline>
+            <source src="https://i.imgur.com/zOI2rLq.mp4" type="video/mp4">
+        </video>
+    </div>
+
     <main class="main-card">
+        <p class="card-title">Instalación en 3 pasos</p>
+
         <div class="step">
             <div class="icon-box">1</div>
             <div class="step-info">
-                <h3>Abrí en App o Play Store</h3>
+                <h3>Abrí App o Play Store</h3>
                 <p>Buscá en tu Android TV o TV Box.</p>
             </div>
         </div>
@@ -264,15 +385,16 @@
             </div>
         </div>
 
+        <div class="divider"></div>
+
         <div class="code-container" onclick="copyCode(this)">
             <span class="code-label">Código Directo</span>
             <div class="code-number" id="installCode">2344508</div>
-            <div class="copy-toast" id="toast">¡Copiado!</div>
+            <p class="copy-hint">Tocá para copiar</p>
+            <div class="copy-toast" id="toast">¡Copiado! ✓</div>
         </div>
 
-        <p style="text-align: center; font-size: 0.9rem; margin: 15px 0; color: var(--light-grey);">
-            ✅ La descarga iniciará automáticamente.
-        </p>
+        <p class="auto-dl">✅ La descarga iniciará automáticamente.</p>
 
         <a href="#" class="cta-button">¡LISTO PARA VER!</a>
     </main>
@@ -286,25 +408,19 @@
     <script>
         function copyCode(element) {
             const code = document.getElementById('installCode').innerText;
-            
-            // Copiar al portapapeles usando la API moderna si está disponible
             if (navigator.clipboard && window.isSecureContext) {
                 navigator.clipboard.writeText(code);
             } else {
-                // Fallback para entornos no seguros
-                const tempInput = document.createElement("input");
-                tempInput.value = code;
-                document.body.appendChild(tempInput);
-                tempInput.select();
+                const tmp = document.createElement("input");
+                tmp.value = code;
+                document.body.appendChild(tmp);
+                tmp.select();
                 document.execCommand("copy");
-                document.body.removeChild(tempInput);
+                document.body.removeChild(tmp);
             }
-
-            // Efectos visuales
             element.classList.add('pulse');
             const toast = document.getElementById('toast');
             toast.style.opacity = '1';
-
             setTimeout(() => {
                 element.classList.remove('pulse');
                 toast.style.opacity = '0';
