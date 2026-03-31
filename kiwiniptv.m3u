@@ -49,8 +49,8 @@ http://181.13.252.102:8000/play/a05c/index.m3u8
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TELECENTRO", TyC Sports
 http://45.5.151.62:8000/play/a09h/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="FEBRERO-26", TyC SPORTS   
-http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png" group-title="Flow 5", Fox sport Arg
+http://201.218.140.30:9000/play/a08n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/960px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="FEBRERO-26", Bein Sports Ñ
 http://200.59.188.3:8000/play/a0cm
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="FEBRERO-26", DSPORTS
@@ -67,8 +67,14 @@ http://181.78.71.71:18000/play/a03p/index.m3u8
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports HD2
 http://181.209.37.74:8001/play/a06z/index.m3u8
-EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports HD3
-http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="Tango Sports", TNT Sports HD3
+http://138.121.114.91:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN
+http://181.209.37.74:8001/play/a099/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
+http://181.209.37.74:8001/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Tango Sports", ESPN 3
+http://181.209.37.74:8001/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="FEBRERO-26", ESPN Premium1
 http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium2
@@ -77,12 +83,18 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium4
 http://181.209.37.74:8001/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="LATINO 3", ESPN PREMIUM5
-http://45.5.151.62:8000/play/a099/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="", ESPN PREMIUM AR mx 6
-http://live.btv.mx:2424/stream/283887/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="Tango Sports", ESPN Premium5
+http://138.121.114.91:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Flow 5", ESPN PREMIUM6
+http://186.33.40.97:8789/play/22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="TVdssd" , ESPN PREMIUM7 (SUR)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="DEPORTES.AR", ESPN Premium
 http://217.26.190.76:8888/play/a0es/index.m3u
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
+http://190.108.93.75:8001/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Tango Sports", CLARO SPORTS 
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-id="186" tvg-name="" tvg-logo="https://i.postimg.cc/Fz6dc5cP/InShot_20250827_121409688.jpg" group-title="deportes",Canal 186
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-90.playlist.m3u8
 #EXTINF:-1 tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO AR",CAM24 HS OP2
@@ -222,6 +234,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 http://190.238.43.117:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="TELECENTRO", Comedy Central
 http://190.238.43.117:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Flow 5", Cinemax
+http://201.218.140.30:9000/play/a08m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="TELECENTRO", TNT Novelas
 http://190.7.19.197:232/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="TELECENTRO", Lifetime
