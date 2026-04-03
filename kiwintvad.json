@@ -1,25 +1,25 @@
 {
-  "version": "0.0.5",
-  "downloaderLink": "https://go.aftvnews.com/2344508",
-  "downloaderCode": "2344508",
+  "version": "0.0.6",
+  "downloaderLink": "https://go.aftvnews.com/4113098",
+  "downloaderCode": "4113098",
   "costo": "100mil-AR",
   "publicidades": [
     {
       "clickUrl": "https://www.instagram.com/pepsiargentina/",
-      "sponsorName": "Pepsi",
-      "skipAfter": 6,
+      "sponsorName": "Demo Pepsi",
+      "skipAfter": 7,
       "video": "https://i.imgur.com/6ki1uLZ.mp4"
     },
     {
       "clickUrl": "https://www.coca-cola.com/ar/es",
-      "sponsorName": "Coca-Cola",
-      "skipAfter": 5,
+      "sponsorName": "Demo Coca-Cola",
+      "skipAfter": 7,
       "video": "https://i.imgur.com/TTyLsMC.mp4"
     },
     {
       "clickUrl": "https://www.ford.com.ar/",
       "sponsorName": "Ford",
-      "skipAfter": 5,
+      "skipAfter": 7,
       "video": "https://i.imgur.com/bMoyt5Z.mp4"
     }
   ]
