@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="FEBRERO-26", TODO NOTICIAS  
+http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title=" PRUEBA 2" , Telefe
 http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/telefe_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="⭐ ASTRA 4  ⭐" ,Telefe HD
@@ -339,3 +341,5 @@ https://streams.alwaysdata.net/x?ch=vivid.m3u8
 https://streams.alwaysdata.net/x?ch=extasy.m3u8
 #EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="Adultos", EroXXX
 https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title=" PRUEBA 1",215-Venus
+http://177.10.184.193:8000/play/a0ds/index.m3u8
