@@ -5,16 +5,16 @@
   "costo": "100mil-AR",
   "publicidades": [
     {
-      "clickUrl": "https://www.instagram.com/pepsiargentina/",
-      "sponsorName": "Demo Pepsi",
+      "clickUrl": "https://www.instagram.com/herreriaonline",
+      "sponsorName": "Herreria Online",
       "skipAfter": 7,
-      "video": "https://i.imgur.com/6ki1uLZ.mp4"
+      "video": "https://i.imgur.com/jdKKFkH.mp4"
     },
     {
-      "clickUrl": "https://www.coca-cola.com/ar/es",
-      "sponsorName": "Demo Coca-Cola",
+      "clickUrl": "https://www.instagram.com/superpizzasbauman_1132junin",
+      "sponsorName": "Pizzas OLA Bauma",
       "skipAfter": 7,
-      "video": "https://i.imgur.com/TTyLsMC.mp4"
+      "video": "https://i.imgur.com/s838rlv.mp4"
     },
     {
       "clickUrl": "https://www.ford.com.ar/",
