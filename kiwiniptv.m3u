@@ -87,6 +87,10 @@ http://190.7.19.197:232/play/a037/index.m3u8
 http://181.209.37.74:8001/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="Tango Sports", TNT Sports HD3
 http://138.121.114.91:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", TNT Sports HD4
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="FLOW OPCION 3",TNT SPORTS PREMIUM tvm
+https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN
 http://181.209.37.74:8001/play/a099/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
@@ -98,16 +102,14 @@ http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium2
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium3
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium4
 http://181.209.37.74:8001/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="Tango Sports", ESPN Premium5
+#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="Tango Sports", ESPN Premium4
 http://138.121.114.91:8000/play/a086/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="PACK FUTBOL" , Deportes - espn premium ARG 14
+#EXTINF:0 type="stream" channelId="-1" logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="PACK FUTBOL" , ESPN Premium5
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9549
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="TVdssd" , ESPN PREMIUM7 (SUR)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="TVdssd" , ESPN PREMIUM6 (SUR)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-#EXTINF:-1 tvg-id="181" tvg-name="Evento 2" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" " group-title=" PRUEBA 3" ,,ESPN PREMIUM
+#EXTINF:-1 tvg-id="181" tvg-name="Evento 2" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PRUEBA 3" ,ESPN PREMIUM7
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
 http://190.108.93.75:8001/play/a05d/index.m3u8
@@ -224,6 +226,8 @@ http://45.5.151.62:8000/play/a08m/index.m3u8
 http://181.13.252.102:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="TELECENTRO", Space
 http://181.13.252.102:8000/play/a02w/index.m3u8
+#EXTINF:-1  tvg-id="Spacehd001.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png group-title="FEBRERO-26" ,Space HD
+http://190.238.43.117:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="TELECENTRO", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" group-title="FEBRERO-26" ,TNT HD
