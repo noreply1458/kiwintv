@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title=" PRUEBA 2" , ARG - TV Publica (Z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157587
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="FEBRERO-26", TODO NOTICIAS  
 http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title=" PRUEBA 2" , Telefe
@@ -258,8 +260,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 http://190.238.43.117:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="TELECENTRO", Comedy Central
 http://190.238.43.117:8000/play/a01b/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,116-Cinemax
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,Cinemax1
 http://181.94.215.185:4000/play/a0ku/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" group-title=" PRUEBA 2" , Cinemax2 (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9633
+#EXTINF:0 type="stream" channelId="1326" group-title=" PRUEBA 2" , Cinemax3 (Z)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9635
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="TELECENTRO", TNT Novelas
 http://190.7.19.197:232/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,193-Lifetime
