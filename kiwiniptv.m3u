@@ -1,8 +1,16 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,9-Canal 9 
+http://181.209.37.74:8001/play/a08k/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,16-LN+ HD
+http://181.209.37.74:8001/play/a05y/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title=" PRUEBA 2" , ARG - TV Publica (Z)(720)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157587
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="FEBRERO-26", TODO NOTICIAS  
 http://181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title=" PRUEBA 1",14-TN HD
+http://181.209.37.74:8001/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="⭐ ALTERNATIVOS 4 ⭐",TN A
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title=" PRUEBA 2" , Telefe
 http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/telefe_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="⭐ ASTRA 4  ⭐" ,Telefe HD
