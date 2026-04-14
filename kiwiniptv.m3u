@@ -246,11 +246,13 @@ http://45.5.151.62:8000/play/a08m/index.m3u8
 http://181.13.252.102:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="TELECENTRO", Space
 http://181.13.252.102:8000/play/a02w/index.m3u8
-#EXTINF:-1  tvg-id="Spacehd001.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png group-title="FEBRERO-26" ,Space HD
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Space" tvg-name="Space" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Space1
+https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1  tvg-id="Spacehd001.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png group-title="FEBRERO-26" ,Space2 HD
 http://190.238.43.117:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title=" C-C" , Space
+#EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title=" C-C" , Space3
 http://181.209.37.74:8001/play/a071/index.m3u8
-#EXTINF:0 type="stream" channelId="383" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png group-title=" PRUEBA 2" , Cine - Space (TV)(720)
+#EXTINF:-1 tvg-id="Spacehd004.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="PRUEBA 2" , Cine - Space4 (TV)(720)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9718
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="TELECENTRO", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
