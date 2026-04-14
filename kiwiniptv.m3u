@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Trece
+https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,9-Canal 9 
 http://181.209.37.74:8001/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,16-LN+ HD
 http://181.209.37.74:8001/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",LN +
+https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title=" PRUEBA 2" , ARG - TV Publica (Z)(720)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157587
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="FEBRERO-26", TODO NOTICIAS  
@@ -53,6 +57,8 @@ http://190.238.43.117:8000/play/a00t/index.m3u8
 http://190.238.43.117:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="TELECENTRO", Discovery Kids
 http://181.13.252.102:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Kids
+https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="TELECENTRO" , Clan
 http://200.4.244.29:8000/play/a01u
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="TELECENTRO", El Trece
@@ -81,8 +87,12 @@ http://190.238.43.117:8000/play/a09d/index.m3u8
 http://38.252.213.12:8000/play/a01k
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title=" PRUEBA 1",DSPORTS3
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/54409
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 4", DSPORTS4
+#EXTINF:-1 tvg-id="DSPORTS4" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 4", DSPORTS4
 http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS5 🇦🇷
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png",  DSPORTS5 🇦🇷
+http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="TV SAO", DSPORTS +
 http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="FEBRERO-26", DSPORTS 2
@@ -248,6 +258,8 @@ http://181.13.252.102:8000/play/a07b/index.m3u8
 http://190.238.43.117:8000/play/a006/index.m3u8
 #EXTINF:-1  tvg-logo="http://45.228.234.133:8000/playlist/tvg-logo/a03s.png" group-title="FEBRERO-26" ,Sony HD
 http://190.238.43.117:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Film&Arts" tvg-name="Film&Arts" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Film&Arts
+https://broker.cdn.rcs.net.ar/mnp/filmsarts_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="TELECENTRO", Warner Channel
 http://181.13.252.102:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="TELECENTRO" , Studio Universal
@@ -274,6 +286,8 @@ http://181.94.215.185:4000/play/a0ku/index.m3u8
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9633
 #EXTINF:0 type="stream" channelId="1326" group-title=" PRUEBA 2" , Cinemax3 (Z)(1080)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9635
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",FX
+https://broker.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="TELECENTRO", TNT Novelas
 http://190.7.19.197:232/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,193-Lifetime
