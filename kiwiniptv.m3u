@@ -21,14 +21,16 @@ http://ultrapremium.cloud:8080/961212472tv1/i568pxsw2/61548
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157590
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="TELECENTRO" , Discovery Science 
 http://181.13.252.102:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="TELECENTRO", Discovery Channel
-http://190.238.43.117:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="TV_CABLE_AMERICA",Discovery Channel (arg3)
+http://fortv.cc:8080/0cMATP/071483/57645
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" group-title="LATINO 3",Discovery Channel HD
 http://190.7.19.197:232/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="TELECENTRO", National Geographic
-http://190.238.43.117:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="TELECENTRO", History
-http://190.238.43.117:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" tvg-shift="-6"  group-title="TV5", Nat Geo HD
+http://45.5.119.43:4000/play/a0kk/index.m3u8
+#EXTINF:-1  tvg-id="NationalGeographicSouth.us2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" group-title="premium", NATGEO LA
+http://38.49.128.38:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" tvg-shift="-6"  group-title="TV3", History Channel HD
+http://45.5.119.43:4000/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" group-title="⭐️CULTURAL",DISCOVERY H&H (HD) »1«
 http://fastream.xyz:8080/juan18/83e45w87w/410
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="TELECENTRO", Discovery TLC
@@ -44,9 +46,9 @@ http://181.13.252.102:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="TELECENTRO", CGTN ESPAÑOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="TELECENTRO", Nickelodeon
-http://190.238.43.117:8000/play/a00t/index.m3u8
+/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="TELECENTRO", Cartoonito
-http://190.238.43.117:8000/play/a09t/index.m3u8
+/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="TELECENTRO", Discovery Kids
 http://181.13.252.102:8000/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Kids
@@ -74,7 +76,7 @@ http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/960px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="FEBRERO-26", Bein Sports Ñ
 http://200.59.188.3:8000/play/a0cm
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="FEBRERO-26", DSPORTS
-http://190.238.43.117:8000/play/a09d/index.m3u8
+/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS2
 http://38.252.213.12:8000/play/a01k
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title=" PRUEBA 1",DSPORTS3
@@ -86,9 +88,9 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png",  DSPORTS5 🇦🇷
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="TV SAO", DSPORTS +
-http://190.238.43.117:8000/play/a09f/index.m3u8
+/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="FEBRERO-26", DSPORTS 2
-http://190.238.43.117:8000/play/a09g/index.m3u8
+/play/a09g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/960px-DAZN_F1_logo.svg.png" group-title="FEBRERO-26", DAZNF1
 http://liketv.pro:80/User1626/28TM4MEU66/158.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/368px-Win_Sports_nuevo_logo.svg.png" group-title="FEBRERO-26", WIN SPORTS
@@ -181,7 +183,7 @@ http://45.5.151.62:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j2gXtBsdNkaCDq-aVGn8IG5tdaj7M4Lz2PpXwKTcB98oH9AAaT6DRakwNRDydHhe9TM" group-title="FEBRERO-26", CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="TELECENTRO", HTV
-http://190.238.43.117:8000/play/a035/index.m3u8
+http://190.7.19.197:232/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="FEBRERO-26", C5N
 http://190.7.19.197:232/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="FEBRERO-26", TELESUR 
@@ -230,10 +232,10 @@ http://45.5.151.62:8000/play/a09w/index.m3u8
 http://186.33.40.97:8789/play/73
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="TELECENTRO", France 24 ESPAÑOL
 http://38.250.125.162:9800/play/010/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/250px-CNN-International-Logo.svg.png" group-title="LATINO 1" ,CNN International
-http://190.238.43.117:8000/play/a01o/index.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO 1" ,CNN Espaæol
-http://190.238.43.117:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="NOTICIAS_INTERNACIONALES" ,CNN Internacional (INTER)
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Cable_Ar3",CNN en Español (C_AR3)
+http://190.7.19.197:232/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="TELECENTRO", Star Channel
 http://45.5.151.62:8000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="TELECENTRO", Universal TV
