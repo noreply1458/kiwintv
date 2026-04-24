@@ -31,8 +31,10 @@ http://45.5.119.43:4000/play/a0kk/index.m3u8
 http://38.49.128.38:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" tvg-shift="-6"  group-title="TV3", History Channel HD
 http://45.5.119.43:4000/play/a0gk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" group-title="⭐️CULTURAL",DISCOVERY H&H (HD) »1«
-http://fastream.xyz:8080/juan18/83e45w87w/410
+#EXTINF:-1 tvg-id="HGTV.co" tvg-name="DOC-Discovery HGTV (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery HGTV (TV)(1080)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9819
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Home & Health (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Home & Health (M)(1080)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9821
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="TELECENTRO", Discovery TLC
 http://181.78.109.48:9998/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="TELECENTRO" , HGTV 
