@@ -222,18 +222,18 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="FEBRERO-26", COSMOS TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="FEBRERO-26" , Universal Cinema
-http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="FEBRERO-26" , Universal Comedy
-http://liketv.pro:80/User1626/28TM4MEU66/10.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="FEBRERO-26" , Universal Crime
-http://liketv.pro:80/User1626/28TM4MEU66/17629.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="FEBRERO-26" , Universal Premiere
-http://liketv.pro:80/User1626/28TM4MEU66/67107.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="FEBRERO-26" , Universal Reality
-http://liketv.pro:80/User1626/28TM4MEU66/11.ts
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="TELECENTRO", Discovery Turbo
-http://45.5.151.62:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Universal.Cinema.sv" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (L)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9756
+#EXTINF:-1 tvg-id="Canal.Universal.Comedy.sv" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="CANALES-CINE Y SERIES",CINE - Universal Comedy (TV)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9759
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (M)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9762
+#EXTINF:-1 tvg-id="ewqwe2"  tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE
+http://177.10.184.193:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Universal.Reality.sv" tvg-name="CINE - Universal Reality (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (Z)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9773
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional" tvg-name="DOC-Discovery Turbo (Z)(720)" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Turbo (Z)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9789
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="TELECENTRO", Telemundo Internacional
 http://186.33.40.97:8789/play/73
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="TELECENTRO", France 24 ESPAÑOL
@@ -243,19 +243,19 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Cable_Ar3",CNN en Español (C_AR3)
 http://190.7.19.197:232/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="TELECENTRO", Star Channel
-http://45.5.151.62:8000/play/a08m/index.m3u8
+http://45.5.151.62:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="TELECENTRO", Universal TV
 http://181.13.252.102:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="TELECENTRO", Space1
 http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Space" tvg-name="Space" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Space2
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:-1  tvg-id="Spacehd001.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png group-title="FEBRERO-26" ,Space3 HD
-http://190.238.43.117:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="Spacehd004.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="PRUEBA 2" , Cine - Space4 (TV)(720)
+#EXTINF:-1 tvg-id="Spacehd004.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="PRUEBA 2" , Cine - Space3 (TV)(720)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9718
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="TELECENTRO", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
+#EXTINF:-1  tvg-id="Spacehd001.us" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineHispano.png" group-title="FEBRERO-26" ,Cine Hispano
+http://190.238.43.117:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" group-title="FEBRERO-26" ,TNT HD
 http://190.238.43.117:8000/play/a006/index.m3u8
 #EXTINF:-1  tvg-logo="http://45.228.234.133:8000/playlist/tvg-logo/a03s.png" group-title="FEBRERO-26" ,Sony HD
