@@ -19,6 +19,8 @@ http://190.7.19.197:232/play/a059/index.m3u8
 http://ultrapremium.cloud:8080/961212472tv1/i568pxsw2/61548
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" type="stream" channelId="3789" group-title=" PRUEBA 2" , ARG - Telefe (TV)(720)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157590
+#EXTINF:-1 tvg-id="Reality-Gran Hermano" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="CANALES-REALITY LIVE", Gran Hermano - 24 hs 
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/184317
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="TELECENTRO" , Discovery Science 
 http://181.13.252.102:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="TV_CABLE_AMERICA",Discovery Channel (arg3)
@@ -113,6 +115,8 @@ http://138.121.114.91:8000/play/a06z/index.m3u8
 http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="FLOW OPCION 3",TNT SPORTS PREMIUM tvm
 https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
+#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS PREMIUM
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="⭐️DEPORTES",ESPN (ARG)
 http://fastream.xyz:8080/juan18/83e45w87w/520
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="⭐️DEPORTES",ESPN 2 (ARG)
@@ -133,6 +137,8 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9549
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="Evento 2" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PRUEBA 3" ,ESPN PREMIUM7
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="ALTERNATIVOS 2",ESPN PREMIUM8
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 1
 http://190.108.89.228:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 2
@@ -302,6 +308,8 @@ http://181.94.215.185:4000/play/a0jh/index.m3u8
 http://190.7.19.197:232/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="TELECENTRO", HBO
 http://181.13.252.102:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="TELECENTRO", HBO 2
 http://181.13.252.102:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="TELECENTRO", HBO Plus
