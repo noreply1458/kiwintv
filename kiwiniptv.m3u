@@ -93,12 +93,14 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/54409
 http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS5
 http://201.230.121.85:8000/play/a0yv/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png",  DSPORTS6
-http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="TV SAO", DSPORTS +
 http://181.13.252.102:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="FEBRERO-26", DSPORTS 2
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (L)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9557
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/d/s/dsports_2.png" group-title="FEBRERO-26", DSPORTS 2
 http://181.13.252.102:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(1080)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9564
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/960px-DAZN_F1_logo.svg.png" group-title="FEBRERO-26", DAZNF1
 http://liketv.pro:80/User1626/28TM4MEU66/158.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/368px-Win_Sports_nuevo_logo.svg.png" group-title="FEBRERO-26", WIN SPORTS
