@@ -331,16 +331,18 @@ http://190.7.19.197:232/play/a016/index.m3u8
 http://190.238.43.117:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="TELECENTRO", HBO Mundi
 http://190.238.43.117:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Cinema
-http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Comedy
-http://liketv.pro:80/User1626/28TM4MEU66/10.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Crime
-http://liketv.pro:80/User1626/28TM4MEU66/17629.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Premiere
-http://liketv.pro:80/User1626/28TM4MEU66/67107.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Reality
-http://liketv.pro:80/User1626/28TM4MEU66/11.ts
+#EXTINF:-1 tvg-id="ASDQ2" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
+http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
+#EXTINF:-1 tvg-id="QWEQWE"  tvg-name="UNIVERSAL CINEMA ESTE HD" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="SDWDCOMEDY" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="CANALES DE CABLE",UNIVERSAL COMEDY 
+http://177.10.184.193:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="UCRIME" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME 
+http://177.10.184.193:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="UPREMIER" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE
+http://177.10.184.193:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="UREALITY" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
+http://177.10.184.193:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="TELECENTRO", Ciudad Magazine
 http://190.7.19.197:232/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="TELECENTRO", Rural TV
