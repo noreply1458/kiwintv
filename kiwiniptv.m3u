@@ -270,12 +270,15 @@ https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9718
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="TELECENTRO", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
-#EXTINF:-1  tvg-id="Spacehd001.us" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineHispano.png" group-title="FEBRERO-26" ,Cine Hispano
-http://190.238.43.117:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF:-1  tvg-id="tntnove001.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="FEBRERO-26" ,TNT Novelas
+http://190.238.43.117:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" group-title="FEBRERO-26" ,TNT HD
-http://190.238.43.117:8000/play/a006/index.m3u8
+http://190.238.43.117:8000/play/a0gl/index.m3u8
 #EXTINF:-1  tvg-logo="http://45.228.234.133:8000/playlist/tvg-logo/a03s.png" group-title="FEBRERO-26" ,Sony HD
-http://190.238.43.117:8000/play/a009/index.m3u8
+http://190.238.43.117:8000/play/a0gp/index.m3u8
 #EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Film&Arts" tvg-name="Film&Arts" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Film&Arts
 https://broker.cdn.rcs.net.ar/mnp/filmsarts_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="TELECENTRO", Warner Channel
@@ -291,13 +294,13 @@ http://181.94.215.185:4000/play/a0fq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="TELECENTRO", ID
 http://190.7.19.197:232/play/a083/index.m3u8
 EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/adult-swim@2x.png" group-title="TELECENTRO",Adult Swin
-http://190.238.43.117:8000/play/a028/index.m3u8
+http://190.238.43.117:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="TELECENTRO", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="TELECENTRO", A&E
-http://190.238.43.117:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="TELECENTRO", Comedy Central
-http://190.238.43.117:8000/play/a01b/index.m3u8
+http://177.10.184.193:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (M)(SD)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9637
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,Cinemax1
 http://181.94.215.185:4000/play/a0ku/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" group-title=" PRUEBA 2" , Cinemax2 (M)(1080)
@@ -328,9 +331,9 @@ http://181.13.252.102:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="TELECENTRO", HBO Pop
 http://190.7.19.197:232/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="TELECENTRO", HBO Xtreme
-http://190.238.43.117:8000/play/a010/index.m3u8
+http://190.238.43.117:8000/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="TELECENTRO", HBO Mundi
-http://190.238.43.117:8000/play/a02r/index.m3u8
+http://190.238.43.117:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-id="ASDQ2" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
 #EXTINF:-1 tvg-id="QWEQWE"  tvg-name="UNIVERSAL CINEMA ESTE HD" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
@@ -396,8 +399,7 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe
-https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
+
 #EXTINF:-1 tvg-id="Penthouse Passion, Canal 514" tvg-logo="https://penthousetv.com/images/logo_phPassion.png" group-title="Adultos", Penthouse Passion
 https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
 #EXTINF:-1 tvg-id="Vivid TV, Canal 520" tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="Adultos", Vivid Red
@@ -406,5 +408,10 @@ https://streams.alwaysdata.net/x?ch=vivid.m3u8
 https://streams.alwaysdata.net/x?ch=extasy.m3u8
 #EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="Adultos", EroXXX
 https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title=" PRUEBA 1",215-Venus
-http://177.10.184.193:8000/play/a0ds/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Adultos",215-Venus
+http://177.10.184.193:8000/play/a0gq/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/J2iJRie.jpeg" group-title="Adultos",Play Boy
+http://177.10.184.193:8000/play/a0go/index.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe
+https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
+
