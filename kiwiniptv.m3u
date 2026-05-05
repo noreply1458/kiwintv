@@ -23,10 +23,14 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157590
 http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/184317
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="TELECENTRO" , Discovery Science 
 http://181.13.252.102:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="TV_CABLE_AMERICA",Discovery Channel (arg3)
-http://fortv.cc:8080/0cMATP/071483/57645
+#EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades",Discovery Science
+http://177.10.184.193:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png" group-title="CANALES DE CABLE",Discovery Channel HD
+http://177.10.184.193:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" group-title="LATINO 3",Discovery Channel HD
 http://190.7.19.197:232/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Channel (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Channel (Z)(720)
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/9782
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" tvg-shift="-6"  group-title="TV5", Nat Geo HD
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 #EXTINF:-1  tvg-id="NationalGeographicSouth.us2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" group-title="premium", NATGEO LA
@@ -530,6 +534,21 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="FLOW OPCION 3" ch-number="31" type="channel",(KODI NEW) TN
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
+#EXTINF:-1 ch-number="339" tvg-id="TNT HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/800/542/0/0/15119500074230.png" group-title="FLOW OPCION 1", (KODI NEW) TNT
+https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
+#EXTINF:-1 ch-number="340" tvg-id="TNT Novelas.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/114/CH_LOGO/800/542/0/0/98175226078201.png" group-title="FLOW OPCION 1", (KODI NEW) TNT Novelas
+https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dead023f7a81634339ae639990c1517a:ba970222b4466c61d0deccc67ab34452
+#EXTINF:-1 ch-number="319" tvg-id="HBO HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png" group-title="FLOW OPCION 1",  (KODI NEW) HBO 
+https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
