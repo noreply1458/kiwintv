@@ -426,6 +426,10 @@ https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 ch-number="321" tvg-id="HBO Plus HD.uy" tvg-logo="https://i.postimg.cc/02GFsYkD/HBO-Plus-3.png" group-title="HBO", HBO Plus 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
 
 #EXTINF:-0 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" group-title="FLOW 2", AMERICA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
