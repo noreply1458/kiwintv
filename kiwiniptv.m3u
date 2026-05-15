@@ -681,18 +681,20 @@ https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd
 
 
 
-#EXTINF:-1 tvg-id="Penthouse Passion, Canal 514" tvg-logo="https://penthousetv.com/images/logo_phPassion.png" group-title="Adultos", Penthouse Passion
-https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
-#EXTINF:-1 tvg-id="Vivid TV, Canal 520" tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="Adultos", Vivid Red
-https://streams.alwaysdata.net/x?ch=vivid.m3u8
-#EXTINF:-1 tvg-id="Extasy, Canal 521" tvg-logo="https://extasy.tv/img/extasy-logo-pro-web.png" group-title="Adultos", Extasy
-https://streams.alwaysdata.net/x?ch=extasy.m3u8
-#EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="Adultos", EroXXX
-https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Adultos",215-Venus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
+#EXTINF:-1 ch-number="11" tvg-id="[ESHUSTL].Hustler.TV.uy" tvg-logo="https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png" group-title="Adultos", Hustler Mature (18+)(Kodi)
+https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+#EXTINF:-1 ch-number="11" tvg-id="PPV 14 Sextreme.uy" tvg-logo="https://i.postimg.cc/k4kPh7nx/Sextreme.png" group-title="Adultos", Sextreme (18+)(Kodi)
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Adultos",215-Venus(18+)
 http://177.10.184.193:8000/play/a0gq/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/J2iJRie.jpeg" group-title="Adultos",Play Boy
+#EXTINF:0 tvg-logo="https://i.imgur.com/J2iJRie.jpeg" group-title="Adultos",Play Boy(18+)
 http://177.10.184.193:8000/play/a0go/index.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe
+#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe(18+)
 https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
 
