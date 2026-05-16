@@ -1,5 +1,67 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports Premium (opc1)
+http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORT Premium(opc2)
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORTt Premium(opc3)
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports Premium(opc4)
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="FLOW OPCION 3",TNT SPORTS Premium(opc4)
+https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
+#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS Premium(opc5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN 2
+http://191.97.14.162:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="FEBRERO-26", ESPN Premium(opc1)
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="FEBRERO-26", ESPN Premium(opc2)
+http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN Premium(opc3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
+http://190.108.93.75:8001/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Tango Sports", CLARO SPORTS 
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="FEBRERO-26", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="FEBRERO-26", LOS SIMPSONS
+http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="FEBRERO-26", AM Sports
+http://181.13.252.102:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="FEBRERO-26" , Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="FEBRERO-26" , El Confidencial
+https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="FEBRERO-26", COSMOS TV 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="TELECENTRO", Space(opc1)
+http://181.13.252.102:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png",Space(opc2)
+https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="TELECENTRO", Cinecanal
+http://181.13.252.102:8000/play/a07b/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="FEBRERO-26",CINE DE HORROR
+https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="FEBRERO-26",CRIMEN DE WARNER TV
+https://amg00136-amg00136c60-canelatv-international-6417.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-crimen-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg2v-lCMxVGelEmRdGIke4hgWhbSMjOTx6w&s" group-title="FEBRERO-26", MULTIVISION TELEVISION DIGITAL
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" group-title="FEBRERO-26", Bjgtjme 
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="FEBRERO-26", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="FEBRERO-26", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="FEBRERO-26" , Pelimex
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee837d0ec414d95a51b0c7a57d49d307:883fd72dc9b72db33d7b4f8dc0eb0016
 #EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/MG9fFg2D/Fondo-Oscuro.png" group-title="Interés General", 13 MAX TV Corrientes
@@ -860,4 +922,25 @@ https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd
 #EXTINF:-1 ch-number="11" tvg-id="PPV 14 Sextreme.uy" tvg-logo="https://i.postimg.cc/k4kPh7nx/Sextreme.png" group-title="Adultos", Sextreme (18+)
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
 
-
+#EXTINF:-1 tvg-id="Vivid TV, Canal 520" tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="Adultos", Vivid Red(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47168.ts
+#EXTINF:-1 tvg-id="Hustler HD, Canal 504" tvg-logo="https://streaming.alwaysdata.net/img/hustlerhd.png" group-title="Adultos", Hustler HD(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47169.ts
+#EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="Adultos", EroXXX(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47171.ts
+#EXTINF:-1 tvg-id="KinoXXX, Canal 525" tvg-logo="https://streaming.alwaysdata.net/img/kinoxxx.png" group-title="Adultos", KinoXXX(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47172.ts
+#EXTINF:-1 tvg-id="Penthouse Reality, Canal 515" tvg-logo="https://penthousetv.com/images/phRealityTV_TEMP.jpg" group-title="Adultos", Penthouse Reality(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47173.ts
+#EXTINF:-1 tvg-id="Redlight.us, Canal 509" tvg-logo="https://redlight.tv/wp-content/uploads/2021/08/REDLIGHT-HD-LOGO-1536x323.png" group-title="Adultos", Redlight HD(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47174.ts
+#EXTINF:-1 tvg-id="Private.us, Canal 508" tvg-logo="https://streaming.alwaysdata.net/img/private.png" group-title="Adultos", Private(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47176.ts
+#EXTINF:-1 tvg-logo="https://www.bunnycoupon.com/images/stores/logo/DarkX-Coupon-Code.jpg" group-title="",DarkX (18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47178.ts
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/PornHD-Logo.png" group-title="",Porn HD (18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47180.ts
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/adult-channel-11348.svg" group-title="",	Adult-channel(18+)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47182.ts
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/34a56345e6d0f4a8a4653da684423de1-520x293.jpeg" group-title="",WAaYH
+http://kstv.us:8080/live/N427DpynGE/7049166651/47184.ts
