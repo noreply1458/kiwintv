@@ -1,6 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24hs MULTICAMARA
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",24/7 | GRAN HERMANO MULTICAMARA
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749371.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="https://www.ecartelera.com/carteles-series/300/380/001_p.jpg" group-title="24/7 ANIME", 24/7 | Dragon Ball
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575725.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super 1" tvg-logo="https://cdn.kobo.com/book-images/bf311138-e2ec-4b8e-84fd-2a880da21434/1200/1200/False/dragon-ball-super-vol-14.jpg" group-title="24/7 ANIME", 24/7 | Dragon Ball Super 1
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575726.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Cell" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" group-title="24/7 - TEMPORAL", 24/7 | Dragon Ball Z Saga Cell
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575728.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chapulin Colorado" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1973/4/w1280/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 - TEMPORAL",24/7 | El Chapulin Colorado
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575729.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chavo del 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="24/7 - TEMPORAL",24/7 | El Chavo del 8
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575731.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H | Harry Potter" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24/7 - PELICULAS-N",24H | Harry Potter
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/615766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco 24/7" tvg-logo="http://playlis10.online:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",Los caballeros del zodiaco 24/7
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/428557.ts
+
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports Premium (opc1)
