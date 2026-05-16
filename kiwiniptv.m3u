@@ -29,6 +29,8 @@ https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS Premium(opc5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium(opc6)
+http://domestipo1.online:80/Hector_C/TRx95tFTuF/712752.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",ESPN
 http://177.10.184.193:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN 2
