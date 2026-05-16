@@ -7,14 +7,12 @@ http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575725.ts
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575726.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Cell" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" group-title="24/7 - TEMPORAL", 24/7 | Dragon Ball Z Saga Cell
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575728.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chapulin Colorado" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1973/4/w1280/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 - TEMPORAL",24/7 | El Chapulin Colorado
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575729.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chavo del 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="24/7 - TEMPORAL",24/7 | El Chavo del 8
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575731.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H | Harry Potter" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24/7 - PELICULAS-N",24H | Harry Potter
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/615766.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco 24/7" tvg-logo="http://playlis10.online:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",Los caballeros del zodiaco 24/7
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/428557.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/26/642101977e55a5095f5810cb.jpg" group-title="24/7 - TEMPORAL",24/7: El chavo del 8
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/575793.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H | The Game Of Thrones" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Game-of-Thrones-logo.png" group-title="24/7 - SERIES Y REALITY-N",24H | The Game Of Thrones
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/615850.ts
 
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
@@ -76,7 +74,24 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="FEBRERO-26" , Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
-
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="TELECENTRO" , Discovery Science 
+http://181.13.252.102:8000/play/a02k/index.m3u8
+#EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades",Discovery Science
+http://177.10.184.193:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png" group-title="CANALES DE CABLE",Discovery Channel HD
+http://177.10.184.193:8000/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" group-title="LATINO 3",Discovery Channel HD
+http://190.7.19.197:232/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="TELECENTRO", Discovery TLC
+http://181.78.109.48:9998/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="TELECENTRO" , HGTV 
+http://190.7.19.197:232/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title=" C-C" , Animal Planet
+http://190.7.19.197:232/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="TELECENTRO", Discovery Kids
+http://181.13.252.102:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Kids
+https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee837d0ec414d95a51b0c7a57d49d307:883fd72dc9b72db33d7b4f8dc0eb0016
