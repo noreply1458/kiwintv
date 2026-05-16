@@ -944,3 +944,5 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47180.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47182.ts
 #EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/34a56345e6d0f4a8a4653da684423de1-520x293.jpeg" group-title="",WAaYH
 http://kstv.us:8080/live/N427DpynGE/7049166651/47184.ts
+#EXTINF:-1 tvg-id="Extasy, Canal 521" tvg-logo="https://extasy.tv/img/extasy-logo-pro-web.png" group-title="Adultos", Extasy Pla
+http://kstv.us:8080/live/N427DpynGE/7049166651/47315.ts
