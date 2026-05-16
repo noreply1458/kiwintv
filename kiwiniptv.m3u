@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24hs MULTICAMARA
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749371.ts
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports Premium (opc1)
