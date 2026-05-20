@@ -31,6 +31,11 @@ https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium(opc6)
 http://domestipo1.online:80/Hector_C/TRx95tFTuF/712752.ts
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", TNT Sports(opc7)
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",ESPN
 http://177.10.184.193:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN 2
