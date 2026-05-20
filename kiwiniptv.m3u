@@ -1336,3 +1336,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
 http://200.125.170.120:8000/play/a02c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",Venus(18+)
 http://200.125.170.120:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sextreme_logo.png/250px-Sextreme_logo.png" group-title="Varios",Sextreme(18+)
+http://152.231.29.139:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Exxxtasy_TV.png" group-title="Взрослые [18+]", Exxtasy TV(18+)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVCLpZU.png" tvg-id="eroxxxhd" group-title="Взрослые [18+]", Eroxxx
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
