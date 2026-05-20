@@ -1341,6 +1341,12 @@ http://152.231.29.139:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Exxxtasy_TV.png" group-title="Взрослые [18+]", Exxtasy TV(18+)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vVCLpZU.png" tvg-id="eroxxxhd" group-title="Взрослые [18+]", Eroxxx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVCLpZU.png" tvg-id="eroxxxhd" group-title="Взрослые [18+]", Eroxxx(18+)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="babes-tv" tvg-logo="https://i.imgur.com/XK19a9v.png" group-title="Взрослые [18+]", Babes TV(18+)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="Взрослые [18+]", Brazzers TV(18+)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
