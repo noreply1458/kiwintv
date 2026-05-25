@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="24H | The Game Of Thrones" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Game-of-Thrones-logo.png" group-title="24/7 - SERIES Y REALITY-N",24H | The Game Of Thrones
+http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/615850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cámara 2 EN VIVO 24/7" tvg-logo="https://i.postimg.cc/cJCYz2q0/Lacasadelosfamosos-004e5a379a6d4a838b038d6168b9df42.jpg" group-title="✨LCDLF 6 USA✨",Cámara 2 EN VIVO 24/7
+http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/747416.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
+http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/749371.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
+http://186.194.160.110:9002/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="MPD 5", DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="FEBRERO-26", TNT Sports Premium (opc1)
