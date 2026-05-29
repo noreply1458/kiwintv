@@ -31,6 +31,9 @@ http://38.224.175.2:8000/play/a0rb/index.m3u8
 http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",ESPN
 http://177.10.184.193:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="	
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="-",ESPN
+http://45.5.151.147:8000/play/a00i/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN 2
 http://191.97.14.162:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="CANALES DE CABLE",ESPN 3 HD
