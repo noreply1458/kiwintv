@@ -50,8 +50,12 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
 http://190.108.93.75:8001/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" group-title="CANALES DE CABLE",FOX SPORT HD
-http://177.10.184.193:8000/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",Fox Sports HD
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png",Fox Sports 2 HD
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",Fox Sports 3 HD
+http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Tango Sports", CLARO SPORTS 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="FEBRERO-26", LOS SIMPSONS
