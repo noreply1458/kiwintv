@@ -82,7 +82,7 @@ https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Peliculas", Space(opc1)
 http://181.13.252.102:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="Peliculas",Space(opc2)
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="Peliculas",Space(opc2)
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Peliculas", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
@@ -106,9 +106,9 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 http://181.13.252.102:8000/play/a02k/index.m3u8
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
 http://177.10.184.193:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png" group-title="CANALES DE CABLE" group-title="Documentales Realidad",Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png"  group-title="Documentales Realidad",Discovery Channel HD
 http://177.10.184.193:8000/play/a0a4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" group-title="LATINO 3" group-title="Documentales Realidad",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" group-title="Documentales Realidad",Discovery Channel HD
 http://190.7.19.197:232/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Documentales Realidad", Discovery TLC
 http://181.78.109.48:9998/play/a04o/index.m3u8
@@ -118,7 +118,7 @@ http://190.7.19.197:232/play/a04n/index.m3u8
 http://190.7.19.197:232/play/a081/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title="Argentina" , ARG - TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Peliculas",TN HD
+#EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina" ,Telefe(opc1)
 http://181.13.252.102:8000/play/a06c/index.m3u8
@@ -128,19 +128,19 @@ http://190.7.19.197:232/play/a059/index.m3u8
 http://177.10.184.193:8000/play/a0ge/index.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina", Telefe(opc4)
 http://zapster.trapemn.tv:1935/Zapsterv2/TelefeHD.stream/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
+#EXTINF:-1  tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
 https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-SoporteA24" tvg-id="LA24 +" tvg-name="A24 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NL-A24.svg/250px-NL-A24.svg.png" group-title="Argentina", A24
+#EXTINF:-1  tvg-id="LA24 +" tvg-name="A24 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NL-A24.svg/250px-NL-A24.svg.png" group-title="Argentina", A24
 http://190.7.19.197:232/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Retro", Ciudad Magazine
 http://190.7.19.197:232/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="Volver" tvg-logo="https://i.ibb.co/MgvzBHD/Volver.png" status="timeout" group-title="Entretenimiento" group-title="Retro", Volver
+#EXTINF:-1 tvg-id="Volver" tvg-logo="https://i.ibb.co/MgvzBHD/Volver.png" status="timeout"  group-title="Retro", Volver
 http://168.197.196.98:82/stream/channelid/283862998?profile=pass
 #EXTINF:-1 tvg-logo="https://www.lanacion.com.ar/resizer/v2/el-logo-de-cinear-que-reune-al-canal-cinear-tv-y-BZG4JGWZO5BSRLM2TSYNEH56BE.jpg?auth=c1867db6fdfd49a15d0be98567b7a3a68557e4d28b80aa99ee1590b34606f751&width=420&height=280&quality=70&smart=true" group-title="Retro" ,Cine.AR
 http://190.7.19.197:232/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/1280px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="LATINO 3" group-title="Retro",El Canal  de las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/1280px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="Retro",El Canal  de las Estrellas
 http://190.7.19.197:232/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" group-title="Peliculas",TNT HD
 http://181.13.252.102:8000/play/a07d/index.m3u8
@@ -148,11 +148,11 @@ http://181.13.252.102:8000/play/a07d/index.m3u8
 http://181.13.252.102:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Peliculas", TNT Series
 http://181.13.252.102:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="CANALES DE CABLE",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="Kids",Cartoonito
 http://177.10.184.193:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Kids", Discovery Kids
 http://181.13.252.102:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
+#EXTINF:-1  tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
 https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - NICKELODEON  (M)(720)" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" group-title="Kids",ESP - NICKELODEON
 http://190.238.43.117:8000/play/a0g6/index.m3u8
