@@ -295,19 +295,6 @@ http://179.63.6.12:9000/play/a06z
 #EXTINF:-1 tvg-id="" tvg-name="WESTERN2" tvg-logo="https://www.shutterstock.com/shutterstock/photos/256794835/display_1500/stock-vector-western-logo-256794835.jpg" group-title="CINE Y SERIES", WESTERN 2
 http://45.173.201.51:4000/play/a0lp/index.m3u8
 
-#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=9664f194571646379fee20a080ecce4b:b2870d1257acfc9da74057d2b286e68e
-https://bvclive1.boldmss.com/C5N/C5N_BVC.isml/C5N.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
-
-#EXTINF:-1 tvg-name="Cronica TV" group-title="Noticias",Cronica TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=eafc0a6924d1469486c538ce8cac7048:c56b8f4f1591ac79ff8f2f73072bb2cf
-https://bvclive1.boldmss.com/CRONICA_TV/CRONICA_TV_BVC.isml/CRONICA_TV.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee837d0ec414d95a51b0c7a57d49d307:883fd72dc9b72db33d7b4f8dc0eb0016
