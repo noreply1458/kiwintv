@@ -164,10 +164,8 @@ http://177.10.184.193:8000/play/a03e/index.m3u8
 http://181.13.252.102:8000/play/a06t/index.m3u8
 #EXTINF:-1  tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
 https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - NICKELODEON  (M)(720)" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" group-title="Kids",ESP - NICKELODEON
-http://190.238.43.117:8000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Nick_Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="Kids",Nick Jr
-http://190.238.43.117:8000/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="Kids",✔️ Nickelodeon
+http://45.181.122.46:8090/play/a00m
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x360/Y2gwMTAwMDAwMDAwMDc2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x360.png?timestamp=1778930711988" group-title="CINE Y SERIES", A3S
