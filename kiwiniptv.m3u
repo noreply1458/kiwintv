@@ -96,8 +96,6 @@ http://181.13.252.102:8000/play/a02w/index.m3u8
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Peliculas", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peliculas", TN HD
-http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="Peliculas",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="Peliculas",CRIMEN DE WARNER TV
@@ -130,6 +128,8 @@ http://190.7.19.197:232/play/a081/index.m3u8
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", TN HD
+http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina" ,Telefe(opc1)
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc2)
