@@ -7,6 +7,16 @@ http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/747416.ts
 http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/749371.ts
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
 http://186.194.160.110:9002/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-id="301" tvg-logo="http://i.tvcluboficial.com/dragonball.png" group-title="24/7",Dragon Ball 24/7
+http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/301.m3u8
+#EXTINF:-1 tvg-id="303" tvg-logo="http://i.tvcluboficial.com/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/303.m3u8
+#EXTINF:-1 tvg-id="305" tvg-logo="http://i.tvcluboficial.com/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/305.m3u8
+#EXTINF:-1 tvg-id="307" tvg-logo="http://i.tvcluboficial.com/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/307.m3u8
+#EXTINF:-1 tvg-id="308" tvg-logo="https://puu.sh/xdUYa/051eb44501.png" group-title="24/7",Dragon Ball Z 24/7 Op.2 
+http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/308.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="24/7" , LOS SIMPSONS
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="24/7", LOS SIMPSONS
