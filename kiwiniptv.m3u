@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24H | The Game Of Thrones" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Game-of-Thrones-logo.png" group-title="24/7",24H | The Game Of Thrones
-http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/615850.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cámara 2 EN VIVO 24/7" tvg-logo="https://i.postimg.cc/cJCYz2q0/Lacasadelosfamosos-004e5a379a6d4a838b038d6168b9df42.jpg" group-title="24/7",Cámara 2 EN VIVO 24/7
-http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/747416.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="24/7",GRAN HERMANO MULTICAMARA
-http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/749371.ts
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
 http://186.194.160.110:9002/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-id="301" tvg-logo="http://i.tvcluboficial.com/dragonball.png" group-title="24/7",Dragon Ball 24/7
@@ -25,26 +19,15 @@ http://201.230.121.85:8000/play/dssporthd/index.m3u8
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="Deportes", TNT SPORT Premium(opc2)
 http://181.13.252.102:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="Deportes", TNT SPORTt Premium(opc3)
-http://45.5.151.147:8000/play/a00r/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="Deportes", TNT Sports Premium(opc4)
-http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes",TNT SPORTS Premium(opc4)
 https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="Deportes",TNT SPORTS Premium(opc5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="TNT SPORTS PREMIUM 8" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="Deportes", TNT SPORTS Premium(opc6)
+#EXTINF:-1 tvg-id="8" tvg-name="TNT SPORTS PREMIUM 6" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="Deportes", TNT SPORTS Premium(opc6)
 http://38.224.175.2:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", TNT Sports(opc7)
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv
-http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-name="ESPN" group-title="Deportes",ESPN
 http://177.10.184.193:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
-http://45.5.151.147:8000/play/a00i/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 (opc1)
 http://191.97.14.162:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes", ESPN 2 (opc2)
@@ -61,8 +44,6 @@ http://177.10.184.193:8000/play/a0de/index.m3u8
 http://177.10.184.193:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes" , ESPN Premium(opc1)
 http://190.7.19.197:232/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg" group-title="Deportes", ESPN Premium(opc2)
-http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN Premium(opc3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
@@ -72,8 +53,6 @@ http://190.108.93.75:8001/play/a05d/index.m3u8
 http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png" group-title="Deportes", FOX Sports (opc1)
 http://181.13.252.102:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png" group-title="Deportes",FOX SPORTS(opc2)
-http://45.5.151.147:8000/play/a00n/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",Fox Sports 2 HD
 http://190.7.19.197:232/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 HD
