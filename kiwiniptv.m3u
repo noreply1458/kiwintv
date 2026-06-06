@@ -144,6 +144,8 @@ https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 http://190.7.19.197:232/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Retro", Ciudad Magazine
 http://190.7.19.197:232/play/a04l/index.m3u8
+#EXTINF:-1 	tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Retro", Pasiones
+http://152.231.29.139:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://i.ibb.co/MgvzBHD/Volver.png" status="timeout"  group-title="Retro", Volver
 http://168.197.196.98:82/stream/channelid/283862998?profile=pass
 #EXTINF:-1 tvg-logo="https://www.lanacion.com.ar/resizer/v2/el-logo-de-cinear-que-reune-al-canal-cinear-tv-y-BZG4JGWZO5BSRLM2TSYNEH56BE.jpg?auth=c1867db6fdfd49a15d0be98567b7a3a68557e4d28b80aa99ee1590b34606f751&width=420&height=280&quality=70&smart=true" group-title="Retro" ,Cine.AR
@@ -303,13 +305,11 @@ http://45.173.201.51:4000/play/a0lp/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-playboy-tv-en-un-formato-blanco-ai-aviable-vector-fondo-147814758.jpg" group-title="Adultos",Playboy TV(18+)
-http://200.125.170.120:8000/play/a02c/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Adultos",Venus(18+)
-http://200.125.170.120:8000/play/a04e/index.m3u8
+http://152.231.29.139:8000/play/a0dl/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4LFXPMk.png" group-title="Adultos",Venus(18+)
+http://152.231.29.139:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sextreme_logo.png/250px-Sextreme_logo.png" group-title="Adultos",Sextreme(18+)
 http://152.231.29.139:8000/play/a0f2/index.m3u8
-#EXTINF:-1 	tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Adultos", Pasiones
-http://152.231.29.139:8000/play/a0hf/index.m3u8
 #EXTINF:-1 	tvg-logo="https://www.passionxxx.net/img/logo@2x.png" group-title="Adultos", PassionXXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Exxxtasy_TV.png" group-title="Adultos", Exxtasy TV(18+)
@@ -333,7 +333,7 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",Apex (Depredador dominante) (2026)
-http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/770919.mkv
+http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/770919.mp4
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",Jack Ryan de Tom Clancy: Guerra Encubierta (2026)
