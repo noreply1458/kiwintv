@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
-http://186.194.160.110:9002/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-id="301" tvg-logo="http://i.tvcluboficial.com/dragonball.png" group-title="24/7",Dragon Ball 24/7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/301.m3u8
 #EXTINF:-1 tvg-id="303" tvg-logo="http://i.tvcluboficial.com/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
@@ -21,10 +19,6 @@ http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712756.ts
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712757.ts
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="Deportes", TNT Sports Premium (opc1)
 http://190.7.19.197:232/play/a037/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="Deportes", TNT SPORT Premium(opc2)
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes",TNT SPORTS Premium(opc4)
-https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="Deportes",TNT SPORTS Premium(opc5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
