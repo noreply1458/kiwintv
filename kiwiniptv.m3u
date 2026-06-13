@@ -73,6 +73,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="Peliculas",Space(opc2)
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="Peliculas",CineMax
+http://177.10.184.193:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX HD.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",CINEMAX OPC2
+http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/46111.ts
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Peliculas", Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="Peliculas",CINE DE HORROR
@@ -103,6 +107,12 @@ http://181.78.109.48:9998/play/a04o/index.m3u8
 http://190.7.19.197:232/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Documentales Realidad" , Animal Planet
 http://190.7.19.197:232/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="Documentales Realidad" ,History Channel
+http://177.10.184.193:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" group-title="Documentales Realidad" ,History HD
+http://177.10.184.193:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" group-title="Documentales Realidad" ,Home & Health HD
+http://177.10.184.193:8000/play/a09o/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title="Argentina" , ARG - TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
