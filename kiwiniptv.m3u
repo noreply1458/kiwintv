@@ -15,6 +15,12 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 http://201.230.121.85:8000/play/dssporthd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc2)
 http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc3)
+http://191.97.14.162:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc4)
+http://190.7.19.197:232:8000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc5)
+http://152.231.29.139:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS 1 ARG
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
@@ -71,8 +77,9 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Peliculas",TNT HD
 http://177.10.184.193:8000/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="	
-https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas",TNT Series
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Peliculas",TNT
+http://191.97.14.162:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas",TNT Series
 http://177.10.184.193:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="Peliculas",CineMax
 http://177.10.184.193:8000/play/a05u/index.m3u8
