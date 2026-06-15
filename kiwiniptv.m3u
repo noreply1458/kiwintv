@@ -53,24 +53,18 @@ http://190.108.93.75:8001/play/a05d/index.m3u8
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports HD
 http://190.7.19.197:232/play/a05u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png" group-title="Deportes", FOX Sports (opc1)
-http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",Fox Sports 2 HD
 http://190.7.19.197:232/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 HD
 http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Deportes", CLARO SPORTS 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="Deportes", AM Sports
-http://181.13.252.102:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Negocios" , Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Negocios" , El Confidencial
 https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="Peliculas", COSMOS TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Peliculas", Space(opc1)
-http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="Peliculas",Space(opc2)
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="Peliculas",CineMax
@@ -79,8 +73,6 @@ http://177.10.184.193:8000/play/a05u/index.m3u8
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/46111.ts
 #EXTINF:0 type="favorites" channelId="1326" name="Cinemax" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png", Cinemax(OPC3)
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Peliculas", Cinecanal
-http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="Peliculas",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="Peliculas",CRIMEN DE WARNER TV
@@ -95,8 +87,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="Peliculas" , Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Documentales Realidad" , Discovery Science 
-http://181.13.252.102:8000/play/a02k/index.m3u8
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
 http://177.10.184.193:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png"  group-title="Documentales Realidad",Discovery Channel HD
@@ -119,14 +109,10 @@ http://177.10.184.193:8000/play/a09o/index.m3u8
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", TN HD
-http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" group-title="Argentina",Canal 9 Litoral
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712728.ts
 #EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712730.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina" ,Telefe(opc1)
-http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc2)
 http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc3)
@@ -157,16 +143,8 @@ http://168.197.196.98:82/stream/channelid/283862998?profile=pass
 http://190.7.19.197:232/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/1280px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="Retro",El Canal  de las Estrellas
 http://190.7.19.197:232/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" group-title="Peliculas",TNT HD
-http://181.13.252.102:8000/play/a07d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Peliculas", TNT Novelas HD
-http://181.13.252.102:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Peliculas", TNT Series
-http://181.13.252.102:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="Kids",Cartoonito
 http://177.10.184.193:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Kids", Discovery Kids
-http://181.13.252.102:8000/play/a06t/index.m3u8
 #EXTINF:-1  tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
 https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="Kids",✔️ Nickelodeon
