@@ -311,6 +311,8 @@ http://45.173.201.51:4000/play/a0lp/index.m3u8
 http://152.231.29.139:8000/play/a0dl/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4LFXPMk.png" group-title="Adultos",Venus(18+)
 http://152.231.29.139:8000/play/a0f1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="Adultos",Redlight HD
+http://78.130.250.2:8023/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sextreme_logo.png/250px-Sextreme_logo.png" group-title="Adultos",Sextreme(18+)
 http://152.231.29.139:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Exxxtasy_TV.png" group-title="Adultos", Exxtasy TV(18+)
