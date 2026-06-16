@@ -13,7 +13,7 @@ http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/305.m3u8
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/307.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="http://i.tvcluboficial.com/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/100.m3u8
-#EXTINF:-1 tvg-id="802" tvg-logo="http://i.tvcluboficial.com/samuraix.png",Samurai X 24/7
+#EXTINF:-1 tvg-id="802" tvg-logo="http://i.tvcluboficial.com/samuraix.png" group-title="24/7",Samurai X 24/7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/802.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="24/7" , LOS SIMPSONS
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
