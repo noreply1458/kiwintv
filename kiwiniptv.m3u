@@ -37,6 +37,8 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712757.ts
+#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Deportes", D SPORTS2
+http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tntsports-1.jpg" group-title="Deportes", TNT Sports Premium (opc1)
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png" group-title="Deportes",TNT Sports(opc2)
@@ -62,6 +64,18 @@ http://177.10.184.193:8000/play/a0df/index.m3u8
 http://177.10.184.193:8000/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" group-title="Deportes"",ESPN 6 HD
 http://177.10.184.193:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
+http://siriustv.lat:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 122 | ESPN 2
+http://siriustv.lat:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 123 | ESPN 3
+http://siriustv.lat:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES", 124 | ESPN 4
+http://siriustv.lat:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="DEPORTES", 125 | ESPN 5
+http://siriustv.lat:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 126 | ESPN 6
+http://siriustv.lat:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes" , ESPN Premium(opc1)
 http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN Premium(opc3)
@@ -99,6 +113,8 @@ http://177.10.184.193:8000/play/a05u/index.m3u8
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/46111.ts
 #EXTINF:0 type="favorites" channelId="1326" name="Cinemax" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas", Cinemax(OPC3)
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",  CINEMAX(OPC4)
+http://181.78.23.26:45000/play/a02y
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="Peliculas",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="Peliculas",CRIMEN DE WARNER TV
