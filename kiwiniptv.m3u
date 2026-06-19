@@ -41,6 +41,10 @@ http://152.231.29.139:8000/play/a0ji/index.m3u8
 http://200.59.188.3:8000/play/a0xe
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSports(opc7)🇦🇷
 http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes", DSports (opc8)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes", DSports (opc9)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS 1 ARG
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
