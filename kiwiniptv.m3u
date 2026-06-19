@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 1)
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 2)
+https://s2.bufaloweb.com/bufalo10/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 3)
+https://s2.bufaloweb.com/bufalo11/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 4)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 5)
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+
 #EXTINF:-1 tvg-id="623" tvg-logo="http://i.tvcluboficial.com/247.png" group-title="24/7",Los Expedientes Secretos X 24/7
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/623.m3u8
 #EXTINF:-1 tvg-id="344" tvg-logo="http://i.tvcluboficial.com/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
