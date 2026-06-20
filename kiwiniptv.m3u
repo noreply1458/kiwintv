@@ -5,7 +5,8 @@ https://s2.bufaloweb.com/bufalo9/index.m3u8
 https://s2.bufaloweb.com/bufalo10/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 3)
 https://s2.bufaloweb.com/bufalo11/index.m3u8
-
+#EXTINF:0 type="favorites" channelId="-1" group-title="24/7", Dragon Ball Z
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/cYvBzU01thh8xi9SC-LJpw1oRhqBOhoOdnlZvTd-1KjcyOLKOgAT6llaZXe5VPa9C98r7kAJcnKe9i-GwTECwo1LkQgnSVDzIcBLVUggDpVMz243jXlBA8925LMuiMYEpCX3K5FGxJUkVPVYg-rosA.jpg" group-title="24/7",24/7 Pablo Escobar, el patrón del mal
 http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflod_ma8Y8baQ3B8sbguWffJw
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/qOb0LT2SSuxjdBqaGLLv4uHfyzqhkc5OoCUjM9LDQoq_4erTxRxKN5yZADFqU6dlfZzp_03ELmNsB_JNh3oopQ.jpeg" group-title="24/7",24/7 Pokémon
