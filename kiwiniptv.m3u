@@ -343,12 +343,12 @@ http://45.173.201.51:4000/play/a0lp/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
-#EXTINF:-1 ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png" group-title="FLOW OPCION 2", Adult Swim
+#EXTINF:-1 ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png" group-title="KODI", Adult Swim
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
-#EXTINF:-1 ch-number="301" tvg-id="AandE HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png" group-title="FLOW OPCION 2", A&E 
+#EXTINF:-1 ch-number="301" tvg-id="AandE HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png" group-title="KODI", A&E 
 https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
