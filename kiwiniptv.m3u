@@ -5,6 +5,13 @@ https://s2.bufaloweb.com/bufalo9/index.m3u8
 https://s2.bufaloweb.com/bufalo10/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 3)
 https://s2.bufaloweb.com/bufalo11/index.m3u8
+
+#EXTINF:-1, 24/7 El Chavo
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/316936.ts
+#EXTINF:-1, 24/7 El Chavo
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/316937.ts
+#EXTINF:-1, Juego de Tronos 24/7
+http://skybeyondplus.mine.nu:25461/live/Chompi00/GFasjM4WEUvm/37015.ts
 #EXTINF:0 type="favorites" channelId="-1" group-title="24/7", Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/cYvBzU01thh8xi9SC-LJpw1oRhqBOhoOdnlZvTd-1KjcyOLKOgAT6llaZXe5VPa9C98r7kAJcnKe9i-GwTECwo1LkQgnSVDzIcBLVUggDpVMz243jXlBA8925LMuiMYEpCX3K5FGxJUkVPVYg-rosA.jpg" group-title="24/7",24/7 Pablo Escobar, el patrón del mal
@@ -21,6 +28,7 @@ http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYfloaKwKCMV46ikUwtPc98qido
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="24/7", LOS SIMPSONS
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS(opc1)
 http://201.230.121.85:8000/play/dssporthd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc2)
