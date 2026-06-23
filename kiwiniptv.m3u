@@ -125,6 +125,10 @@ http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/46111.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",  CINEMAX(OPC4)
 http://181.78.23.26:45000/play/a02y
+#EXTINF:0,Cinecanal HD
+http://179.1.199.50:9000/play/a06j/index.m3u8
+#EXTINF:11 tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",Cinemax
+http://179.1.199.50:9000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="Peliculas",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="Peliculas",CRIMEN DE WARNER TV
