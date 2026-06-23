@@ -145,6 +145,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
 http://177.10.184.193:8000/play/a02m/index.m3u8
+#EXTINF:0 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png"  group-title="Documentales Realidad",Discovery Channel HD
 http://177.10.184.193:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" group-title="Documentales Realidad",Discovery Channel HD
