@@ -1,10 +1,10 @@
 {
   "version": "0.0.2",
   "versionLite": "0.0.2",
-  "downloaderLink": "https://files.catbox.moe/van5v4.apk",
-  "downloaderLinkLite": "https://files.catbox.moe/van5v4.apk",
-  "downloaderCode": "3066480",
-  "downloaderCodeLite": "3066480",
+  "downloaderLink": "https://files.catbox.moe/1c56hy.apk",
+  "downloaderLinkLite": "https://files.catbox.moe/1c56hy.apk",
+  "downloaderCode": "5407640",
+  "downloaderCodeLite": "5407640",
   "costo": "50mil-AR Vis:5.3M",
   "publicidades": [
     {
@@ -18,12 +18,6 @@
       "sponsorName": "Inoog.ar",
       "skipAfter": 7,
       "video": "https://i.imgur.com/BLnJmmV.mp4"
-    },
-    {
-      "clickUrl": "https://www.instagram.com/jardinvivo893/",
-      "sponsorName": "+54 362-5487227",
-      "skipAfter": 7,
-      "video": "https://i.imgur.com/n2DefRv.mp4"
     }
   ]
 }
