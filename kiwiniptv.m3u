@@ -203,6 +203,8 @@ http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712714.ts
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712715.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",telefe (opc8)
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",TELEFE SD(opc9)
+http://dalive.site:8080/UjVsOVU0dmVoQXJ2WUQ0dzVmbXZGci9MdlQ4dkdReEZ2TmQ3MWZwVllSVT0
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1  tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
