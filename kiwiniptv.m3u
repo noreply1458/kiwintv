@@ -54,6 +54,11 @@ http://148.222.230.197:8000/play/a0mm/index.m3u8
 http://dalive.site:8080/VEVFKzRla1VwM2dsRjBNWEZJVGMzSVhiQXZMUXVURGxmNURuTk1OMmU3ST0
 #EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSports🇦🇷(opc11)
 http://dalive.site:8080/ZVFKZjRTUW5JN0RWTVA2VnhUTGZjL0laNG56VnVrWW5FcG1PaWNxbVJncz0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc12)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc13)
+http://miotv.cc:8080/Lopez123/Lopez123/187374
+
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS 1 ARG
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
@@ -120,6 +125,7 @@ http://190.7.19.197:232/play/a03p/index.m3u8
 http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Deportes", CLARO SPORTS 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Negocios" , Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Negocios" , El Confidencial
@@ -160,6 +166,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="Peliculas" , Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
+
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
 http://177.10.184.193:8000/play/a02m/index.m3u8
 #EXTINF:0 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
@@ -175,12 +182,15 @@ http://181.78.109.48:9998/play/a04o/index.m3u8
 http://190.7.19.197:232/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Documentales Realidad" , Animal Planet
 http://190.7.19.197:232/play/a081/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Documentales Realidad",✔️ Animal Planet Discovery
+http://45.167.1.136:8000/play/a03i
 #EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="Documentales Realidad" ,History Channel
 http://177.10.184.193:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History HD" group-title="Documentales Realidad" ,History HD
 http://177.10.184.193:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" group-title="Documentales Realidad" ,Home & Health HD
 http://177.10.184.193:8000/play/a09o/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title="Argentina" , ARG - TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
@@ -211,6 +221,10 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 http://master2.vip:8080//live/luishevima/6cb63ee9/549.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Argentina",TELEFE OP 11
 http://master2.vip:8080//live/luishevima/6cb63ee9/550.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Argentina",✔️ Telefe OP 12
+http://miotv.cc:8080/Lopez123/Lopez123/272043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Argentina",✔️ Telefe OP 13
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
 
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
