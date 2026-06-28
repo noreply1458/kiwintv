@@ -203,6 +203,10 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712728.ts
 #EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712730.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE OP 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20210526032531&path-prefix=es" group-title="ARGENTINA",EL NUEVE OP 1
+http://master2.vip:8080//live/luishevima/6cb63ee9/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE OP 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20210526032531&path-prefix=es" group-title="ARGENTINA",EL NUEVE OP 2
+http://master2.vip:8080//live/luishevima/6cb63ee9/547.ts
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc1)
