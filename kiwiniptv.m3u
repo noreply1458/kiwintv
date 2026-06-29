@@ -61,10 +61,6 @@ http://miotv.cc:8080/Lopez123/Lopez123/187374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc14)
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS 1 ARG
-http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712756.ts
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
-http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712757.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", Directv Sports 2
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
 #EXTINF:0  tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 HD
