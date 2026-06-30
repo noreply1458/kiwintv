@@ -227,7 +227,10 @@ http://master2.vip:8080//live/luishevima/6cb63ee9/550.ts
 http://miotv.cc:8080/Lopez123/Lopez123/272043
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Argentina",✔️ Telefe OP 13
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="Argentina" ch-number="11" type="channel",Telefe OP 14
+https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
