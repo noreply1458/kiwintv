@@ -13,9 +13,9 @@ https://s2.bufaloweb.com/bufalo9/index.m3u8
 https://s2.bufaloweb.com/bufalo10/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 5)
 https://s2.bufaloweb.com/bufalo11/index.m3u8
-#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial (Opción 6)
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial",Mundial (Opción 6)
 http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0",Mundial (Opción 7)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Mundial" , Mundial (Opción 7)
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="24/7" ,24/7 | LA FIEBRE DEL ORO 
@@ -67,9 +67,9 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 http://miotv.cc:8080/Lopez123/Lopez123/187374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc14)
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0",✔️ Dsports(opc15)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc15)
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0",✔️ Dsports(opc16)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc16)
 http://103.229.81.220/bufalo9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", Directv Sports 2
@@ -208,9 +208,9 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712728.ts
 #EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
 http://florestvoficial.com:80/FIRESTORM4K/FIRESTORM4KMAX/712730.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE OP 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20210526032531&path-prefix=es" group-title="ARGENTINA",EL NUEVE OP 1
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE OP 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20210526032531&path-prefix=es" group-title="Argentina",EL NUEVE OP 1
 http://master2.vip:8080//live/luishevima/6cb63ee9/546.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE OP 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20210526032531&path-prefix=es" group-title="ARGENTINA",EL NUEVE OP 2
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE OP 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Elnueve-ls83logo.png/revision/latest?cb=20210526032531&path-prefix=es" group-title="Argentina",EL NUEVE OP 2
 http://master2.vip:8080//live/luishevima/6cb63ee9/547.ts
 
 
