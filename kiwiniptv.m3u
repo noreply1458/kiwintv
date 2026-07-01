@@ -10,6 +10,8 @@ https://s2.bufaloweb.com/bufalo9/index.m3u8
 https://s2.bufaloweb.com/bufalo10/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 5)
 https://s2.bufaloweb.com/bufalo11/index.m3u8
+#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial (Opción 6)
+http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
 
 #EXTINF:0 group-title="24/7" ,24/7 | LA FIEBRE DEL ORO 
 http://dalive.site:8080/TGNkUU02bGFxTThPY2pONmtCbW4wUEVpOW5hQWdTYjBWMzl2ck1nem5vOD0
