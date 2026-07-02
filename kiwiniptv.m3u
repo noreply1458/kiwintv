@@ -24,6 +24,8 @@ http://dalive.site:8080/TGNkUU02bGFxTThPY2pONmtCbW4wUEVpOW5hQWdTYjBWMzl2ck1nem5v
 http://dalive.site:8080/cmcrZDNsb0JRc2Zsd2VpV05EM1ltT1ZnNHFOaDFLRjA1Vzhqb1VXMEFsWT0
 #EXTINF:0 type="favorites" channelId="-1" tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7", Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
+http://181.79.86.130:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/cYvBzU01thh8xi9SC-LJpw1oRhqBOhoOdnlZvTd-1KjcyOLKOgAT6llaZXe5VPa9C98r7kAJcnKe9i-GwTECwo1LkQgnSVDzIcBLVUggDpVMz243jXlBA8925LMuiMYEpCX3K5FGxJUkVPVYg-rosA.jpg" group-title="24/7",24/7 Pablo Escobar, el patrón del mal
 http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflod_ma8Y8baQ3B8sbguWffJw
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/qOb0LT2SSuxjdBqaGLLv4uHfyzqhkc5OoCUjM9LDQoq_4erTxRxKN5yZADFqU6dlfZzp_03ELmNsB_JNh3oopQ.jpeg" group-title="24/7",24/7 Pokémon
@@ -247,8 +249,9 @@ https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1  tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
 https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
-#EXTINF:-1  tvg-id="LA24 +" tvg-name="A24 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NL-A24.svg/250px-NL-A24.svg.png" group-title="Argentina", A24
+#EXTINF:-1  tvg-id="LA24 +" tvg-name="A24 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NL-A24.svg/250px-NL-A24.svg.png" group-title="Argentina", A24(opc1)
 http://190.7.19.197:232/play/a03z/index.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Retro", Ciudad Magazine
 http://190.7.19.197:232/play/a04l/index.m3u8
 #EXTINF:-1 	tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Retro", Pasiones
