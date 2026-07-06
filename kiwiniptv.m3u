@@ -5,6 +5,10 @@ http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15121.mp4
 #EXTINF:-1 group-title="|CINE| Toy Story 5" tvg-logo="https://pbs.twimg.com/media/G3WbbiCaYAA7fBE.jpg",El Diablo viste a la moda 2
 http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15035.mkv
 
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial", Mundial 2026 HD Op.2 DS
+http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial",Mundial 2026 Op.3 DS2
+http://aioplus.es:80/live/33621LT1/33621LT1/830868.ts
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 3)
 https://s2.bufaloweb.com/bufalo9/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 4)
