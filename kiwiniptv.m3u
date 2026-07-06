@@ -53,21 +53,23 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 http://201.230.121.85:8000/play/dssporthd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc2)
 http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc5)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DIRECTV SPORTS(opc3)
+http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnpus9rM9UscCKrFvUOWdUmaF82Z9ONfGezM53ZfPzxVM/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc4)
 http://152.231.29.139:8000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSports(opc7)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSports(opc5)
 http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSPORTS(opc10)
+#EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSPORTS(opc6)
 http://dalive.site:8080/VEVFKzRla1VwM2dsRjBNWEZJVGMzSVhiQXZMUXVURGxmNURuTk1OMmU3ST0
-#EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSports🇦🇷(opc11)
+#EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSports🇦🇷(opc7)
 http://dalive.site:8080/ZVFKZjRTUW5JN0RWTVA2VnhUTGZjL0laNG56VnVrWW5FcG1PaWNxbVJncz0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc12)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc8)
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc14)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",✔️ Dsports(opc9)
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc15)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc10)
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc16)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc11)
 http://103.229.81.220/bufalo9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", Directv Sports 2
@@ -178,6 +180,7 @@ http://177.10.184.193:8000/play/a051/index.m3u8
 http://177.10.184.193:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" group-title="Documentales Realidad" ,Home & Health HD
 http://177.10.184.193:8000/play/a09o/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg" group-title="Argentina" , ARG - TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
@@ -193,18 +196,21 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
 #EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="Argentina",ARG HD | TELEFE (opc5)
 http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnmnNeGDvllTLHDbg6VK-BK1unIZejTV7gwtE1l--DN6M/ts
-#EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",TELEFE SD(opc7)
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",TELEFE SD(opc6)
 http://dalive.site:8080/UjVsOVU0dmVoQXJ2WUQ0dzVmbXZGci9MdlQ4dkdReEZ2TmQ3MWZwVllSVT0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina", TELEFE 🇦🇷(opc8)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina", TELEFE 🇦🇷(opc7)
 http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Argentina",✔️ Telefe OP 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Argentina",✔️ Telefe OP (opc8)
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
+
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1  tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
 https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 #EXTINF:-1  tvg-id="LA24 +" tvg-name="A24 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NL-A24.svg/250px-NL-A24.svg.png" group-title="Argentina", A24(opc1)
 http://190.7.19.197:232/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="elnueve"tvg-logo="https://bit.ly/3So1m6J" group-title="Argentina",El nueve
+https://list.iptvcat.com/my_list/s/4d236f626205af6bf61c782a4d4087c4.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Retro", Ciudad Magazine
 http://190.7.19.197:232/play/a04l/index.m3u8
