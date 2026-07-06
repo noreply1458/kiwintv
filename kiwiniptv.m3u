@@ -291,6 +291,19 @@ http://177.10.184.193:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WESTERN2" tvg-logo="https://www.shutterstock.com/shutterstock/photos/256794835/display_1500/stock-vector-western-logo-256794835.jpg" group-title="CINE Y SERIES", WESTERN 2
 http://45.173.201.51:4000/play/a0lp/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Terror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Crimen
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+
 
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-playboy-tv-en-un-formato-blanco-ai-aviable-vector-fondo-147814758.jpg" group-title="Adultos",Playboy TV(18+)
 http://152.231.29.139:8000/play/a0dl/index.m3u8
