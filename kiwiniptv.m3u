@@ -20,12 +20,20 @@ http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Mundial" , Mundial (Opción 7)
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo=https://3axis.co/user-images/pok92j7j.png" group-title="24/7",24/7 Alien Saga
+http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnqhs3C7dUiK_iwO3fMYGUypWyJngtK5duNUjDdBKdJMh/ts
+#EXTINF:-1 group-title="24/7",24-7 Cuentos De La Cripta
+http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdntV2HEGx9Uu3P5QupvUTSCcGkzY2us7wZMZnsP9CsrjZ/ts
 #EXTINF:0 group-title="24/7" ,24/7 | LA FIEBRE DEL ORO 
 http://dalive.site:8080/TGNkUU02bGFxTThPY2pONmtCbW4wUEVpOW5hQWdTYjBWMzl2ck1nem5vOD0
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/23/1/cavaleiros-do-zodiaco-logo-png_seeklogo-239247.png" group-title="24/7",24/7 Caballeros del zodiaco
+http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnuyKQexKin-mVq__Rg0l9iwS6lmM_Qw5peFx1riEgxXp/ts
 #EXTINF:0  tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7",24-7 Dragon Ball
 http://dalive.site:8080/cmcrZDNsb0JRc2Zsd2VpV05EM1ltT1ZnNHFOaDFLRjA1Vzhqb1VXMEFsWT0
 #EXTINF:0 type="favorites" channelId="-1" tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7", Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7",24/7 Dragon Ball Super
+http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsX393rnQs-15Uj4Hnuq2p1o/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/cYvBzU01thh8xi9SC-LJpw1oRhqBOhoOdnlZvTd-1KjcyOLKOgAT6llaZXe5VPa9C98r7kAJcnKe9i-GwTECwo1LkQgnSVDzIcBLVUggDpVMz243jXlBA8925LMuiMYEpCX3K5FGxJUkVPVYg-rosA.jpg" group-title="24/7",24/7 Pablo Escobar, el patrón del mal
 http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflod_ma8Y8baQ3B8sbguWffJw
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/qOb0LT2SSuxjdBqaGLLv4uHfyzqhkc5OoCUjM9LDQoq_4erTxRxKN5yZADFqU6dlfZzp_03ELmNsB_JNh3oopQ.jpeg" group-title="24/7",24/7 Pokémon
@@ -183,6 +191,8 @@ http://177.10.184.193:8000/play/a0ge/index.m3u8
 http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="Argentina", Telefe(opc4)
 http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
+#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="Argentina",ARG HD | TELEFE (opc5)
+http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnmnNeGDvllTLHDbg6VK-BK1unIZejTV7gwtE1l--DN6M/ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",TELEFE SD(opc7)
 http://dalive.site:8080/UjVsOVU0dmVoQXJ2WUQ0dzVmbXZGci9MdlQ4dkdReEZ2TmQ3MWZwVllSVT0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina", TELEFE 🇦🇷(opc8)
