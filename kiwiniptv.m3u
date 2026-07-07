@@ -195,6 +195,8 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/9990
 #EXTINF:-1 tvg-id="elnueve"tvg-logo="https://bit.ly/3So1m6J" group-title="Argentina",El nueve (OPC2)
 https://list.iptvcat.com/my_list/s/4d236f626205af6bf61c782a4d4087c4.m3u8
+#EXTINF:0 tvg-id="elnueve"tvg-logo="https://bit.ly/3So1m6J" group-title="Argentina",ARG | El Nueve  HD (OPC3)
+http://rlatinop.com:8880/hugo553cali/TWCSpjhcgBFv/490460
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc1)
 http://190.7.19.197:232/play/a059/index.m3u8
@@ -212,6 +214,8 @@ http://dalive.site:8080/UjVsOVU0dmVoQXJ2WUQ0dzVmbXZGci9MdlQ4dkdReEZ2TmQ3MWZwVllS
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Argentina",✔️ Telefe OP (opc8)
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",ARG | TELEFE(opc9)
+http://rlatinop.com:8880/hugo553cali/TWCSpjhcgBFv/490439
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
