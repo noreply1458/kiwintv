@@ -71,6 +71,8 @@ http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Deportes",✔️ Dsports(opc11)
 http://103.229.81.220/bufalo9/index.m3u8
+#EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes", ARG: DIRECTV SPORTS(opc12)
+http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/10083
 
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", Directv Sports 2
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
@@ -118,6 +120,8 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Deportes", TyC SPORTS (opc2)
 http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Deportes",ARG: TYC SPORTS (opc3)
+http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/9979
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports HD
 http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",Fox Sports 2 HD
@@ -139,12 +143,14 @@ http://177.10.184.193:8000/play/a09m/index.m3u8
 http://191.97.14.162:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas",TNT Series
 http://177.10.184.193:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="Peliculas",CineMax
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="Peliculas",CineMax(OPC1)
 http://177.10.184.193:8000/play/a05u/index.m3u8
-#EXTINF:11 tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",Cinemax
+#EXTINF:11 tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",Cinemax(OPC2)
 http://179.1.199.50:9000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",  CINEMAX(OPC4)
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",  CINEMAX(OPC3)
 http://181.78.23.26:45000/play/a02y
+#EXTINF:0 tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas",ARG: CINEMAX(OPC4)
+http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/9996
 #EXTINF:0 tvg-name="Cinecanal" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778940911589" group-title="Peliculas",Cinecanal HD
 http://179.1.199.50:9000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="Peliculas",CINE DE HORROR
@@ -185,6 +191,10 @@ http://177.10.184.193:8000/play/a09o/index.m3u8
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3So1m6J" group-title="Argentina",ARG: EL NUEVE (CANAL 9)
+http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/9990
+#EXTINF:-1 tvg-id="elnueve"tvg-logo="https://bit.ly/3So1m6J" group-title="Argentina",El nueve (OPC2)
+https://list.iptvcat.com/my_list/s/4d236f626205af6bf61c782a4d4087c4.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc1)
 http://190.7.19.197:232/play/a059/index.m3u8
@@ -205,12 +215,13 @@ http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina" ,ARG: EL TRECE (CANAL 13)
+http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/10077
 #EXTINF:-1  tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
 https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 #EXTINF:-1  tvg-id="LA24 +" tvg-name="A24 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NL-A24.svg/250px-NL-A24.svg.png" group-title="Argentina", A24(opc1)
 http://190.7.19.197:232/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="elnueve"tvg-logo="https://bit.ly/3So1m6J" group-title="Argentina",El nueve
-https://list.iptvcat.com/my_list/s/4d236f626205af6bf61c782a4d4087c4.m3u8
+
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Retro", Ciudad Magazine
 http://190.7.19.197:232/play/a04l/index.m3u8
