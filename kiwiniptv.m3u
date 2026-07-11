@@ -5,35 +5,21 @@ http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15121.mp4
 #EXTINF:-1 group-title="|CINE| Toy Story 5" tvg-logo="https://pbs.twimg.com/media/G3WbbiCaYAA7fBE.jpg",El Diablo viste a la moda 2
 http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15035.mkv
 
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial", Mundial 2026 HD Op.2 DS
-http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial",Mundial 2026 Op.3 DS2
-http://aioplus.es:80/live/33621LT1/33621LT1/830868.ts
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 3)
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 1)
 https://s2.bufaloweb.com/bufalo9/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 4)
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 2)
 https://s2.bufaloweb.com/bufalo10/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 5)
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 3)
 https://s2.bufaloweb.com/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial",Mundial (Opción 6)
-http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Mundial" , Mundial (Opción 7)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Mundial" , Mundial (Opción 4)
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo=https://3axis.co/user-images/pok92j7j.png" group-title="24/7",24/7 Alien Saga
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnqhs3C7dUiK_iwO3fMYGUypWyJngtK5duNUjDdBKdJMh/ts
-#EXTINF:-1 group-title="24/7",24-7 Cuentos De La Cripta
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdntV2HEGx9Uu3P5QupvUTSCcGkzY2us7wZMZnsP9CsrjZ/ts
 #EXTINF:0 group-title="24/7" ,24/7 | LA FIEBRE DEL ORO 
 http://dalive.site:8080/TGNkUU02bGFxTThPY2pONmtCbW4wUEVpOW5hQWdTYjBWMzl2ck1nem5vOD0
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/23/1/cavaleiros-do-zodiaco-logo-png_seeklogo-239247.png" group-title="24/7",24/7 Caballeros del zodiaco
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnuyKQexKin-mVq__Rg0l9iwS6lmM_Qw5peFx1riEgxXp/ts
 #EXTINF:0  tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7",24-7 Dragon Ball
 http://dalive.site:8080/cmcrZDNsb0JRc2Zsd2VpV05EM1ltT1ZnNHFOaDFLRjA1Vzhqb1VXMEFsWT0
 #EXTINF:0 type="favorites" channelId="-1" tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7", Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
-#EXTINF:-1 tvg-logo="https://images.icon-icons.com/1381/PNG/512/dragonballonlineglobal_94263.png" group-title="24/7",24/7 Dragon Ball Super
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsX393rnQs-15Uj4Hnuq2p1o/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/cYvBzU01thh8xi9SC-LJpw1oRhqBOhoOdnlZvTd-1KjcyOLKOgAT6llaZXe5VPa9C98r7kAJcnKe9i-GwTECwo1LkQgnSVDzIcBLVUggDpVMz243jXlBA8925LMuiMYEpCX3K5FGxJUkVPVYg-rosA.jpg" group-title="24/7",24/7 Pablo Escobar, el patrón del mal
 http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflod_ma8Y8baQ3B8sbguWffJw
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/qOb0LT2SSuxjdBqaGLLv4uHfyzqhkc5OoCUjM9LDQoq_4erTxRxKN5yZADFqU6dlfZzp_03ELmNsB_JNh3oopQ.jpeg" group-title="24/7",24/7 Pokémon
@@ -51,12 +37,6 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS(opc1)
 http://201.230.121.85:8000/play/dssporthd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc2)
-http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DIRECTV SPORTS(opc3)
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnpus9rM9UscCKrFvUOWdUmaF82Z9ONfGezM53ZfPzxVM/ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes",DSports(opc4)
-http://152.231.29.139:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSports(opc5)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSPORTS(opc6)
