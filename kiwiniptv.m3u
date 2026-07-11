@@ -2,8 +2,10 @@
 
 #EXTINF:-1 group-title="|CINE| Toy Story 5" tvg-logo="https://pbs.twimg.com/media/G3WbbiCaYAA7fBE.jpg",Toy Story 5
 http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15121.mp4
-#EXTINF:-1 group-title="|CINE| Toy Story 5" tvg-logo="https://pbs.twimg.com/media/G3WbbiCaYAA7fBE.jpg",El Diablo viste a la moda 2
+#EXTINF:-1 group-title="|CINE| Toy Story 5" tvg-logo="https://www.elespectador.com/resizer/v2/MW5K5YCEUZDQPJE4C4SKTS3Q6I.png?auth=881fbbe3f81e7e521347e40b74c5be7060179a83549143bbcd5a876bee087140&width=910&height=606&smart=true&quality=70",El Diablo viste a la moda 2
 http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15035.mkv
+#EXTINF:-1 group-title="|CINE| Toy Story 5" tvg-logo="https://mx.web.img3.acsta.net/img/ca/e7/cae70ad946aa89d04027ec046be50538.jpg",Socias por accidente (2026) 
+http://elpapanatas.space:8080/movie/eder7378/8388eder/426985.mkv
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Mundial", Mundial (Opción 1)
 https://s2.bufaloweb.com/bufalo9/index.m3u8
@@ -13,6 +15,16 @@ https://s2.bufaloweb.com/bufalo10/index.m3u8
 https://s2.bufaloweb.com/bufalo11/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=awqw007k&dl=0" group-title="Mundial" , Mundial (Opción 4)
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026
+http://liontv.es:8080/live/JONNY1234/JONNY1234/1979623.ts
+#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 VIX Op.1 DS
+https://sdmx.vip:443/live/alfredolozanou@hotmail.com/h9R6bNXXLh/2227006.ts
+#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 HD Op.2 DS
+http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/9560.ts
+#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.3 DS2
+http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/9564.ts
+#EXTINF:-1 group-title="Mundial" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.4 DS+
+http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/9557.ts
 
 #EXTINF:0 group-title="24/7" ,24/7 | LA FIEBRE DEL ORO 
 http://dalive.site:8080/TGNkUU02bGFxTThPY2pONmtCbW4wUEVpOW5hQWdTYjBWMzl2ck1nem5vOD0
@@ -37,6 +49,8 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS5" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS(opc1)
 http://201.230.121.85:8000/play/dssporthd/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS(opc2)
+http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSports(opc5)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes",DSPORTS(opc6)
@@ -54,6 +68,8 @@ http://103.229.81.220/bufalo9/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Deportes", ARG: DIRECTV SPORTS(opc12)
 http://ayudaavenezuela.hnsefpop.top:8080/7791762683148366/45f22a984578/10083
 
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS mas ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes", Directv +
+http://190.238.43.117:9000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", Directv Sports 2
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
 #EXTINF:0  tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 HD
