@@ -218,6 +218,8 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",ARG | TELEFE(opc9)
 http://rlatinop.com:8880/hugo553cali/TWCSpjhcgBFv/490439
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Telefe.ar" tvg-name="Telefe | ARG ❆ " tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",Telefe(op10) 
+http://bestpmp.cloud:2052/202604dari26/2026dari3335/630380
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",El Trece
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
