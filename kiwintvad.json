@@ -1,11 +1,11 @@
 {
-  "version": "0.0.4",
-  "versionLite": "0.0.4",
-  "downloaderLink": "https://files.catbox.moe/nhmpbp.apk",
-  "downloaderLinkLite": "https://files.catbox.moe/nhmpbp.apk",
-  "downloaderCode": "1325632",
-  "downloaderCodeLite": "1325632",
-  "costo": "120mil-AR",
+  "version": "0.0.5",
+  "versionLite": "0.0.5",
+  "downloaderLink": "https://files.catbox.moe/c78s1w.apk",
+  "downloaderLinkLite": "https://files.catbox.moe/c78s1w.apk",
+  "downloaderCode": "8352132",
+  "downloaderCodeLite": "8352132",
+  "costo": "60mil-AR",
   "publicidades": [
     {
       "clickUrl": "https://wa.me/543625215483",
@@ -16,7 +16,7 @@
     {
       "clickUrl": "https://inoog.ar/",
       "sponsorName": "www.inoog.ar",
-      "skipAfter": 9,
+      "skipAfter": 7,
       "video": "https://i.imgur.com/olj8u1E.mp4"
     }
   ]
