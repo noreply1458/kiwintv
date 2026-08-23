@@ -120,6 +120,8 @@ https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 http://152.231.29.139:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://i.ibb.co/MgvzBHD/Volver.png" status="timeout"  group-title="Retro", Volver
 http://168.197.196.98:82/stream/channelid/283862998?profile=pass
+#EXTINF:-1 group-title="Retro" 	tvg-logo="https://i.imgur.com/g5ShxZ7.png", Las Estrellas
+http://38.199.5.160:8000/play/a0bi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="Kids",Cartoonito
 http://177.10.184.193:8000/play/a03e/index.m3u8
@@ -225,6 +227,8 @@ https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
 
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-playboy-tv-en-un-formato-blanco-ai-aviable-vector-fondo-147814758.jpg" group-title="Adultos",Playboy TV(18+)
 http://152.231.29.139:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4LFXPMk.png" group-title="Adultos",Venus(18+)
 http://152.231.29.139:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sextreme_logo.png/250px-Sextreme_logo.png" group-title="Adultos",Sextreme(18+)
@@ -240,8 +244,15 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="Adultos", Brazzers TV(18+)
 #EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 group-title="Adultos" tvg-logo="",Sex girl(125)
+http://125.227.210.55:3031/VideoInput/play.ts
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adultos" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
+http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="Adultos", Brazzers EU(18+)
 https://s2.bufaloweb.com/bufalo27/index.m3u8
+
 
 
