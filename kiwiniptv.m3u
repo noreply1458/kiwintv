@@ -145,9 +145,9 @@ http://177.10.184.193:8000/play/a02s/index.m3u8
 #EXTINF:-1  tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
 https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="Peliculas", COSMOS TV 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", COSMOS TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="Peliculas",Space(opc2)
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="CINE Y SERIES",Space(opc2)
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES",TNT HD
 http://177.10.184.193:8000/play/a09m/index.m3u8
@@ -264,7 +264,7 @@ http://125.227.210.55:3031/VideoInput/play.ts
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adultos" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
 http://125.227.210.55:3033/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
+#EXTINF:-1 group-title="Adultos" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="Adultos", Brazzers EU(18+)
 https://s2.bufaloweb.com/bufalo27/index.m3u8
