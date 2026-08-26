@@ -755,6 +755,7 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-id="EVENTOS_HD" tvg-name="EVENTOS HD" tvg-logo="https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png" group-title="🇵🇾LAND TV🇵🇾",EVENTOS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -773,33 +774,6 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 https://live.enhdtv.com:8081/8222/index.m3u8
 #EXTINF:-1 tvg-id="EN_VIVO_3" tvg-name="En Vivo 3" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="🇵🇾LAND TV🇵🇾",En Vivo 3
 https://live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-id="VS_SPORTS" tvg-name="VS SPORTS" tvg-logo="https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾LAND TV🇵🇾",VS SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd
-#EXTINF:-1 tvg-id="EVENTOS_FLOW_1" tvg-name="EVENTOS FLOW 1" tvg-logo="https://i.postimg.cc/9frTqBtY/download-(50).png" group-title="⚽EVENTOS FLOW COPA DEL REY⚽",EVENTOS FLOW 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XIbiNzF8IjGsG8Ew6ZX61g","k":"3Kz3sjnua9PzacoR283k6w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-#EXTINF:-1 tvg-id="EVENTOS_FLOW_2" tvg-name="EVENTOS FLOW 2" tvg-logo="https://i.postimg.cc/9frTqBtY/download-(50).png" group-title="⚽EVENTOS FLOW COPA DEL REY⚽",EVENTOS FLOW 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5U6eqHpjRlj7ug44CqcBpw","k":"TkhtJdfQ59ExdDsoWWPGQw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
 #EXTINF:-1 tvg-id="DSPORTS" tvg-name="DSports" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="URUGUAY",DSports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -838,78 +812,6 @@ http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 #EXTINF:-1 tvg-id="UCL" tvg-name="UCL" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/37059784072541.png" group-title="URUGUAY",UCL
 https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="CANAL_10" tvg-name="CANAL 10" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjQzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="URUGUAY",CANAL 10
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jdNHgtdU+Pyx6LONqf+tCw","k":"b7l0Z8Dw6hP4bUGnDgKcUQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-id="TELEDOCE" tvg-name="TELEDOCE" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12282201072862.png" group-title="URUGUAY",TELEDOCE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"396dNddDi/32HaXfrAVXwQ","k":"rLEzcMA6clTiu5zJ0hJQFw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
-#EXTINF:-1 tvg-id="CANAL_4" tvg-name="CANAL 4" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/45676872071383.png" group-title="URUGUAY",CANAL 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2r76rIl0JYl3j8+rePCDVA","k":"iW3ZFGg7AcgET/0017ZBaw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
-#EXTINF:-1 tvg-id="CANAL_5" tvg-name="CANAL 5" tvg-logo="https://pbs.twimg.com/profile_images/1923331092339154944/euZMnOVL_400x400.png" group-title="URUGUAY",CANAL 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xQUY1/WfTAqpowef4rAU/Q","k":"lgOPdqK6M4ZupU60smBXPw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd
-#EXTINF:-1 tvg-id="TV_CIUDAD" tvg-name="TV CIUDAD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/95377005071290.png" group-title="URUGUAY",TV CIUDAD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m1Ns0XFmR+6UxF+kg20p1g","k":"1pHIipVEBmZ0LR2BgxgjRw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
-#EXTINF:-1 tvg-id="EVENTOS_HD" tvg-name="EVENTOS HD" tvg-logo="https://i.ibb.co/YLjMyFx/evento30hd.png" group-title="URUGUAY",EVENTOS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SNDjTIeXxcKnQtJjCo+5dQ","k":"+10Sudj+voNuVnCr0APdyg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd
-#EXTINF:-1 tvg-id="EVENTOS_2_HD" tvg-name="EVENTOS 2 HD" tvg-logo="https://i.ibb.co/C0xQZQ3/evento230hd.png" group-title="URUGUAY",EVENTOS 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"h7/e0r37062dzk0wsnOf0Q","k":"6AsNZtYPoKLSTYs2BVpv7w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Eventos_2_UY/SA_Live_dash_enc/Eventos_2_UY.mpd
-#EXTINF:-1 tvg-id="EVENTOS_3_HD" tvg-name="EVENTOS 3 HD" tvg-logo="https://i.ibb.co/02hhVcv/evento330hd.png" group-title="URUGUAY",EVENTOS 3 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"93SwajAHg1lvJ7VSIm3pwA","k":"TWJWsotIe8+Qa88DKGNXRw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Eventos3_UY/SA_Live_dash_enc/Eventos3_UY.mpd
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg" group-title="🇧🇷BRASIL🇧🇷",BAND
 https://media.cdntvms.com.br/band_sat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BAND_NEWS" tvg-name="BAND NEWS" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="🇧🇷BRASIL🇧🇷",BAND NEWS
@@ -918,15 +820,6 @@ http://177.52.24.163/BAND-NEWS-HD/index.m3u8
 http://45.190.28.50/JP_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CANAL_BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://i.imgur.com/1MusQ5K.png" group-title="🇧🇷BRASIL🇧🇷",CANAL BRASIL
 http://45.190.156.152/CANAL_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NEW_BRASIL" tvg-name="NEW BRASIL" tvg-logo="" group-title="🇧🇷BRASIL🇧🇷",NEW BRASIL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C09W1cGbRfs+dac7bsBubA","k":"xGTitt7StS4ed1OzqFmrzg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" group-title="🇧🇷BRASIL🇧🇷",GLOBO
 http://138.255.2.6:8084/GLOBOHD/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO_R.D.J" tvg-name="GLOBO R.D.J" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" group-title="🇧🇷BRASIL🇧🇷",GLOBO R.D.J
@@ -957,15 +850,6 @@ https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 http://45.190.156.152/SBT_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RECORD_TV" tvg-name="RECORD TV" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/a/a5/Logorecord.png/revision/latest?cb=20181016064409&path-prefix=es" group-title="🇧🇷BRASIL🇧🇷",RECORD TV
 http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="RECORD_INT." tvg-name="RECORD INT." tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="🇧🇷BRASIL🇧🇷",RECORD INT.
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sL2OoRs/TCGZAwhe8dRLDQ","k":"miVwmnLCypPLc4Zlc2z6Wg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd
 #EXTINF:-1 tvg-id="RECORD_NACIONAL" tvg-name="RECORD NACIONAL" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/a/a5/Logorecord.png/revision/latest?cb=20181016064409&path-prefix=es" group-title="🇧🇷BRASIL🇧🇷",RECORD NACIONAL
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="RECORD_INTERIOR" tvg-name="RECORD INTERIOR" tvg-logo="https://i.imgur.com/VcHy0fu.png" group-title="🇧🇷BRASIL🇧🇷",RECORD INTERIOR
@@ -994,125 +878,26 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 #EXTINF:-1 tvg-id="CANAL_UOL" tvg-name="CANAL UOL" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoSVG.svg" group-title="🇧🇷BRASIL🇧🇷",CANAL UOL
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
-#EXTINF:-1 tvg-id="SNT" tvg-name="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾PARAGUAY🇵🇾",SNT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n2HczoccxBrrIG0FAo_DCg","k":"n2JIGUo79eNblrGU6GJGkw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
-#EXTINF:-1 tvg-id="5DIAS" tvg-name="5DIAS" tvg-logo="https://i.ibb.co/Pg6v5zn/images.png" group-title="🇵🇾PARAGUAY🇵🇾",5DIAS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dGCRxQLtzx6dADU1zgHz5A","k":"KQgbX5LRo3yI-70OzlXIOQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd
 #EXTINF:-1 tvg-id="TELEFUTURO" tvg-name="TELEFUTURO" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="🇵🇾PARAGUAY🇵🇾",TELEFUTURO
 https://04@copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="MONUMENTAL" tvg-name="MONUMENTAL" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="🇵🇾PARAGUAY🇵🇾",MONUMENTAL
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://bestleague.world/img/trecepy.webp" group-title="🇵🇾PARAGUAY🇵🇾",TRECE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qAk83LLVBL048WdkvSG25Q","k":"v887AztfC1rgIHUaZ0Yybw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
-#EXTINF:-1 tvg-id="UNICANAL" tvg-name="UNICANAL" tvg-logo="https://iptvstudio.pages.dev/logos/paraguay/unicanal.png" group-title="🇵🇾PARAGUAY🇵🇾",UNICANAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Y6NynP1g8k9-Ema-5eygLA","k":"y57QKK9AZU4apDk07ljbWA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd
 #EXTINF:-1 tvg-id="MEGA_TV" tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="🇵🇾PARAGUAY🇵🇾",MEGA TV
 https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="PARAGUAY_TV" tvg-name="PARAGUAY TV" tvg-logo="https://bestleague.world/img/pytv.png" group-title="🇵🇾PARAGUAY🇵🇾",PARAGUAY TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="RADIO_NACIONAL_DEL_PARAGUAY" tvg-name="RADIO NACIONAL DEL PARAGUAY" tvg-logo="https://i.imgur.com/ksh20I5.png" group-title="🇵🇾PARAGUAY🇵🇾",RADIO NACIONAL DEL PARAGUAY
 https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8
-#EXTINF:-1 tvg-id="ABC_PY" tvg-name="ABC PY" tvg-logo="https://i.ibb.co/dGqjksf/descarga.png" group-title="🇵🇾PARAGUAY🇵🇾",ABC PY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wL73VzOyZFRSQyvU52829Q","k":"6hYkM2fYFMHVPx6vIfAF/w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
 #EXTINF:-1 tvg-id="RED_DIGITAL" tvg-name="RED DIGITAL" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="🇵🇾PARAGUAY🇵🇾",RED DIGITAL
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 #EXTINF:-1 tvg-id="CANAL_PRO" tvg-name="CANAL PRO" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png" group-title="🇵🇾PARAGUAY🇵🇾",CANAL PRO
 https://www.desde-paraguay.com/pro.m3u8
-#EXTINF:-1 tvg-id="TV_CAMARA" tvg-name="TV CAMARA" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="🇵🇾PARAGUAY🇵🇾",TV CAMARA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"k1dwSt5ETcOyO+iYZa8vWA","k":"PQPgp52Pe3qiiXw9JL1Lag"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/s14qLnR/TVS.png" group-title="🇵🇾PARAGUAY🇵🇾",TVS
 https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="NPY" tvg-name="NPY" tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="🇵🇾PARAGUAY🇵🇾",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="C9N" tvg-name="C9N" tvg-logo="https://bestleague.world/img/c9n.png" group-title="🇵🇾PARAGUAY🇵🇾",C9N
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZGcA7rFMrfoFQ6IM9BPTfg","k":"T8A3xGICN2RiTYRGRCy7yg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
-#EXTINF:-1 tvg-id="GEN" tvg-name="GEN" tvg-logo="https://bestleague.world/img/genpy.png" group-title="🇵🇾PARAGUAY🇵🇾",GEN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SeuSS6mYyn-7ruMNzvHstA","k":"bhMbBLLodZj7WIrCBWc2mA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live//c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
 #EXTINF:-1 tvg-id="LA_TELE" tvg-name="LA TELE" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="🇵🇾PARAGUAY🇵🇾",LA TELE
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="SUR_TV" tvg-name="SUR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="🇵🇾PARAGUAY🇵🇾",SUR TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mIrk6ECJgWCd7Z-LI7v3nQ","k":"uGfGZ5G8rWfuFCvh4hwldw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd
-#EXTINF:-1 tvg-id="PARAVISION" tvg-name="PARAVISION" tvg-logo="https://iptvstudio.pages.dev/logos/paraguay/paravision.png" group-title="🇵🇾PARAGUAY🇵🇾",PARAVISION
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vY6MmzLvAn6P9P8M_OhVpA","k":"KRjpiTtXDD-h8hW1KhLMkQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
-#EXTINF:-1 tvg-id="POPU_TV" tvg-name="POPU TV" tvg-logo="https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png" group-title="🇵🇾PARAGUAY🇵🇾",POPU TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QcpUd9swSNv3MfwSYEx1BA","k":"bH6OlqhjM8v7R3HL_p9rSw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
 #EXTINF:-1 tvg-id="HEI_NOW" tvg-name="HEI NOW" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="🇵🇾PARAGUAY🇵🇾",HEI NOW
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="E40" tvg-name="E40" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="🇵🇾PARAGUAY🇵🇾",E40
@@ -1145,164 +930,20 @@ https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8
 https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8
 #EXTINF:-1 tvg-id="FARRA_TV" tvg-name="FARRA TV" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🇵🇾PARAGUAY🇵🇾",FARRA TV
 https://stream.farra.com.py/live/farra_low.m3u8
-#EXTINF:-1 tvg-id="AMERICA_PY" tvg-name="AMERICA PY" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="🇵🇾PARAGUAY🇵🇾",AMERICA PY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TkoYdHTejimoUH1JbIpZTw","k":"2qtczzBtZ3SXQPfOAsB4UA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
-#EXTINF:-1 tvg-id="A24_PY" tvg-name="A24 PY" tvg-logo="https://www.a24.com/assets/img/296/header-logo-v2.svg" group-title="🇵🇾PARAGUAY🇵🇾",A24 PY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"guh/rBwzkVrV00T/rBu7tA","k":"22C/qgF4BxpVcubm/7Ru0w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/A24_PY/SA_Live_dash_enc/A24_PY.mpd
-#EXTINF:-1 tvg-id="FLOW_EVENTOS_PY" tvg-name="FLOW EVENTOS PY" tvg-logo="https://i.ibb.co/YLjMyFx/evento30hd.png" group-title="🇵🇾PARAGUAY🇵🇾",FLOW EVENTOS PY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"K9/DDyp1keEH2MhEWMOV3Q","k":"3O4NZCC2tZf7oV08RBGnHg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
-#EXTINF:-1 tvg-id="FLOW_EVENTOS_2_PY" tvg-name="FLOW EVENTOS 2 PY" tvg-logo="https://i.ibb.co/C0xQZQ3/evento230hd.png" group-title="🇵🇾PARAGUAY🇵🇾",FLOW EVENTOS 2 PY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CQDOZrgt4P0Hqo8SpI8pog","k":"5VVtumiP2mNzdKtch9fNpg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd
 #EXTINF:-1 tvg-id="AMERICA" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="🇦🇷ARGENTINA🇦🇷",America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"}
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" tvg-logo="https://i.ibb.co/GkcZSm4/tv-publica.png" group-title="🇦🇷ARGENTINA🇦🇷",TVP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zIyCrC7H6XmVJ8KdtzVOgQ","k":"zEquFz3S7xeuJr4_euh2Yg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
-#EXTINF:-1 tvg-id="TVP_INT." tvg-name="TVP INT." tvg-logo="https://i.ibb.co/GkcZSm4/tv-publica.png" group-title="🇦🇷ARGENTINA🇦🇷",TVP INT.
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CYM7v8h6zTpQmlfnW0037w","k":"E5BsaEnAyB3kld3ZU5dl/g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd
-#EXTINF:-1 tvg-id="EL_NUEVE" tvg-name="EL NUEVE" tvg-logo="https://i.ibb.co/ZWkQJfH/el-nueve.png" group-title="🇦🇷ARGENTINA🇦🇷",EL NUEVE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JPT_IRE2rmUSobVSIA20BQ","k":"YCEi-EJsXJQrjBjSmcxgIA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
-#EXTINF:-1 tvg-id="TELEFE" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"POwbHql5ndpVluZPN-XtIA","k":"xp86_eIIXcqq3b9VJGoDIw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
-#EXTINF:-1 tvg-id="TELEFE_HITS" tvg-name="TELEFE HITS" tvg-logo="https://i.imgur.com/3fuWMmy.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE HITS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QbiT6KevQ+mUPn1UoCxOYA","k":"C5Z/C6m1Q7jayKuYFLeXDg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/Telefe_Tend/SA_Live_dash_enc/TELEFE.mpd
 #EXTINF:-1 tvg-id="TELEFE_NACIONAL" tvg-name="TELEFE NACIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE NACIONAL
 http://200.91.32.158:8080/telefehdvalle/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TELEFE_INT." tvg-name="TELEFE INT." tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE INT.
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QbiT6KevQ+mUPn1UoCxOYA","k":"C5Z/C6m1Q7jayKuYFLeXDg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/Telefe_Tend/SA_Live_dash_enc/TELEFE.mpd
 #EXTINF:-1 tvg-id="TELEFE_INTERIOR" tvg-name="TELEFE INTERIOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE INTERIOR
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
-#EXTINF:-1 tvg-id="TELEFE_CORDOBA" tvg-name="TELEFE CORDOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE CORDOBA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EDziFLTQTI603UNnDpVtrQ","k":"IOAwV2uNxN8NHGjhavO8Dw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd
-#EXTINF:-1 tvg-id="TELEFE_SANTA_FE" tvg-name="TELEFE SANTA FE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE SANTA FE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"We-QVxFPRKSAti42prE3Tw","k":"dO-XvFTfVlXDodT4Cxbo1w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd
-#EXTINF:-1 tvg-id="TELEFE_ROSARIO" tvg-name="TELEFE ROSARIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE ROSARIO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xhtayOFmS_W1ROkuoll-HA","k":"k4Q3rCXwoY4E78Ggg0ie3A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd
 #EXTINF:-1 tvg-id="EL_TRECE" tvg-name="EL TRECE" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" group-title="🇦🇷ARGENTINA🇦🇷",EL TRECE
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="EL_TRECE_INTERNACIONAL" tvg-name="EL TRECE INTERNACIONAL" tvg-logo="https://i.ibb.co/0qTfhWG/eltrece-internacional.png" group-title="🇦🇷ARGENTINA🇦🇷",EL TRECE INTERNACIONAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"W9Rp-L8mjV0UjDlxx8I_yg","k":"mvmAgNIoRv3ymIuLqexK3Q"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
-#EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://i.ibb.co/br0L72h/deportv.png" group-title="🇦🇷ARGENTINA🇦🇷",DEPORTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"82IJeBWJKkuDlQ8dEG_wsg","k":"Q0nkLoHDGoOJ9KQvzSmJKA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 #EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png" group-title="🇦🇷ARGENTINA🇦🇷",TN
 http://15.204.246.24:8080/TNHD/index.m3u8
 #EXTINF:-1 tvg-id="CANAL_26" tvg-name="CANAL 26" tvg-logo="https://i.ibb.co/SB9pjpJ/canal-26.png" group-title="🇦🇷ARGENTINA🇦🇷",CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="IP_NOTICIAS" tvg-name="IP NOTICIAS" tvg-logo="https://i.postimg.cc/zfy267WM/informacion-periodistica.png" group-title="🇦🇷ARGENTINA🇦🇷",IP NOTICIAS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Upn5b4c6oPDkftxOFXhHFw","k":"nVMXawlpSS8tk_GGe-Hc4Q"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
 #EXTINF:-1 tvg-id="NET_TV" tvg-name="Net TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" group-title="🇦🇷ARGENTINA🇦🇷",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BRAVO_TV" tvg-name="Bravo TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/160/160/0/0/23653274077154.png" group-title="🇦🇷ARGENTINA🇦🇷",Bravo TV
@@ -1311,77 +952,14 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"}
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.ibb.co/L6qCp0d/c5n.png" group-title="🇦🇷ARGENTINA🇦🇷",C5N
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BQ31xueMd054w-me74obKQ","k":"DkFB1qsho2y8Tad3qzCW1A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
-#EXTINF:-1 tvg-id="C5N_YOUTUBE" tvg-name="C5N YouTube" tvg-logo="https://i.ibb.co/L6qCp0d/c5n.png" group-title="🇦🇷ARGENTINA🇦🇷",C5N YouTube
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"j++9rceETkaVL7AyDHdpLQ","k":"gXHsXCsEgzz8gc8qcQB1PQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd
 #EXTINF:-1 tvg-id="CANAL_26" tvg-name="Canal 26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="🇦🇷ARGENTINA🇦🇷",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="CRONICA_TV" tvg-name="CRONICA TV" tvg-logo="https://i.ibb.co/kyD7h7q/cronica.png" group-title="🇦🇷ARGENTINA🇦🇷",CRONICA TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dF56vMkNQatwayrC9Dcdow","k":"UKzZ0Z0TYctKihOoZ73DUg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 #EXTINF:-1 tvg-id="CANAL_E" tvg-name="CANAL E" tvg-logo="https://i.ibb.co/zftBZ5j/canal-e.webp" group-title="🇦🇷ARGENTINA🇦🇷",CANAL E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LN+" tvg-name="LN+" tvg-logo="https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png" group-title="🇦🇷ARGENTINA🇦🇷",LN+
 http://200.91.32.158:8080/lnmas/index.m3u8
 #EXTINF:-1 tvg-id="ARGENTINISIMA_SATELITAL" tvg-name="Argentinisima Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png" group-title="🇦🇷ARGENTINA🇦🇷",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="VOLVER" tvg-name="VOLVER" tvg-logo="https://i.ibb.co/JHyJb6g/volver.png" group-title="🇦🇷ARGENTINA🇦🇷",VOLVER
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GU5TGEpCTOaYmtgsXyj7xQ","k":"ZdYMXMTeAxFyvgpqUe29_g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
-#EXTINF:-1 tvg-id="CINE.AR" tvg-name="CINE.AR" tvg-logo="https://i.ibb.co/cg1pSBg/cinear.png" group-title="🇦🇷ARGENTINA🇦🇷",CINE.AR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1E9A5J0pRcGjcBwIhf8LAA","k":"Y4K2J5CHQCcUtoJGiMRW3w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd
-#EXTINF:-1 tvg-id="ENCUENTRO" tvg-name="ENCUENTRO" tvg-logo="https://i.ibb.co/H4Y4nPr/encuentro.png" group-title="🇦🇷ARGENTINA🇦🇷",ENCUENTRO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rDrni-tkR4qzkLStcOPgyQ","k":"x9Zpdhw1FthSoO354HyRmA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
-#EXTINF:-1 tvg-id="CANAL_RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/c8vRQqm/canal-rural.png" group-title="🇦🇷ARGENTINA🇦🇷",CANAL RURAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sCxWgWPBTP2k3blYoKq3Qg","k":"72SnCshaZjozCL5kdmEKrQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd
 #EXTINF:-1 tvg-id="CHILEVISION" tvg-name="CHILEVISION" tvg-logo="https://i.ibb.co/B27gzhQd/R-3.png" group-title="CHILE",CHILEVISION
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="TV_CHILE" tvg-name="TV CHILE" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV CHILE
@@ -1424,15 +1002,6 @@ https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" group-title="INTERNACIONAL",TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="DNEWS" tvg-name="DNEWS" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="INTERNACIONAL",DNEWS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IVY9gs+3/dGLIT8L2SonTw","k":"WUDY0LV7nmUz6ZzA578vjg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
 #EXTINF:-1 tvg-id="EL_PAIS" tvg-name="EL PAIS" tvg-logo="https://i.ytimg.com/vi/4MrSOuQGmeU/hqdefault.jpg" group-title="INTERNACIONAL",EL PAIS
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="TELEMUNDO_NOTICIAS" tvg-name="TELEMUNDO NOTICIAS" tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="INTERNACIONAL",TELEMUNDO NOTICIAS
@@ -1441,15 +1010,6 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN_EN_ESPAÑOL" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="INTERNACIONAL",CNN EN ESPAÑOL
 http://200.125.170.122:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-id="LATAM_RURAL" tvg-name="LATAM RURAL" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="INTERNACIONAL",LATAM RURAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"q9/YOCTpulhfdPtyxkeqTw","k":"mWfgbjmJOZjRZxSYjZ2H8Q"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Latam_Rural/SA_Live_dash_enc/Latam_Rural.mpd
 #EXTINF:-1 tvg-id="ARIRANG_HD" tvg-name="ARIRANG HD" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="INTERNACIONAL",ARIRANG HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="TELESUR" tvg-name="TELESUR" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="INTERNACIONAL",TELESUR
@@ -1462,87 +1022,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK
 #EXTINF:-1 tvg-id="UCL" tvg-name="UCL" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="INTERNACIONAL",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/VjjgVWW/hbo.png" group-title="🎥PACK-HBO",HBO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UxcoP0EQ-sP7Ogvs2fZIvA","k":"B1SgPJJrEkchbgHZ28-sKA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
-#EXTINF:-1 tvg-id="HBO_2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/mRXxtcT/hbo2.png" group-title="🎥PACK-HBO",HBO 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yQzFetLENuWnfbL42dsthQ","k":"BPbHOYS9z_0BMFBghJeTXQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
-#EXTINF:-1 tvg-id="HBO_FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/bJYvCRv/hbofamily.png" group-title="🎥PACK-HBO",HBO FAMILY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"U1RzEy9oCCFgtIlILKNfjg","k":"6Q_ZH80_yAm-0rHA039ylw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
-#EXTINF:-1 tvg-id="HBO_MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/ZXhsTTP/hbomundi.png" group-title="🎥PACK-HBO",HBO MUNDI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eCGyZiFI_jM9UZGsu4pcHw","k":"rkPz4lRSN-vaWLE4E7XTKA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?*
-#EXTINF:-1 tvg-id="HBO_PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/4RvrQtL/hbomas.png" group-title="🎥PACK-HBO",HBO PLUS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8Of31FiZDt-re5i0ElZGFQ","k":"eSBXVLf4SmJmHC2-neXdXQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
-#EXTINF:-1 tvg-id="HBO_POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/7p0mzQW/hbopop.png" group-title="🎥PACK-HBO",HBO POP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9OHOXO9-mhEP6Wj4iBsh-g","k":"a74gYrFQsRSWzdX73ZyJ1g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
-#EXTINF:-1 tvg-id="HBO_SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/1zvrLR0/hbosignature.png" group-title="🎥PACK-HBO",HBO SIGNATURE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6GZJn7wRSfSZiWcgdao6aA","k":"0t1clWI8Y0MkCYHCIC_DEQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd
-#EXTINF:-1 tvg-id="HBO_XTREME" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/WsV16kp/hboxtreme.png" group-title="🎥PACK-HBO",HBO XTREME
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1QQBG770Z8DeOnU04wKm1A","k":"M0ED4qvhb6p_mrLjCXxaWA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
-#EXTINF:-1 tvg-id="UNIVERSAL_CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png" group-title="🎥PACK UNIVERSAL",UNIVERSAL CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bPmhPW_WWg8uHO45aaq59Q","k":"6mHDwa3ucbXC6XROQdS3Xw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
 #EXTINF:-1 tvg-id="UNIVERSAL_CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png" group-title="🎥PACK UNIVERSAL",UNIVERSAL CINEMA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1589,250 +1068,16 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE_PREMIUM" tvg-name="CINE PREMIUM" tvg-logo="https://pelisjuanita.com/tv/logos/cine-premium.png" group-title="ENTRETENIMIENTO",CINE PREMIUM
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="ENTRETENIMIENTO",GOLDEN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"t9CF29RTmvzGpVRF77KwTg","k":"ClX74ET-03nRYytYkmW1cQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
-#EXTINF:-1 tvg-id="ADULT_SWIM" tvg-name="ADULT SWIM" tvg-logo="https://i.ibb.co/jZxhrBD/adult-swim.png" group-title="ENTRETENIMIENTO",ADULT SWIM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m-FDLh5ZTI0GSKRNPZ8MRg","k":"jmx4WxTZc8UEB0sZIPEbFQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
-#EXTINF:-1 tvg-id="WARNER_CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/xGcXKj5/warner-tv.png" group-title="ENTRETENIMIENTO",WARNER CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BpvT8LbCeUZ-CFSfF79b0A","k":"Wvp-Nppt4Qk4GKha-RKndQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png" group-title="ENTRETENIMIENTO",TCM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pfRKXjBxTPO87nx_FaCLTg","k":"w8FBrpQauXUDOcOvRaZc4g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd
-#EXTINF:-1 tvg-id="STUDIO_UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/s9JprFc/unnamed-7.jpg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2bVB480GTVaYQ9pCeI1CYw","k":"u6XSatUFH7Pyz3492KSn2A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd
-#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/2hxpkFN/ar-cinecanal-1-m.png" group-title="ENTRETENIMIENTO",CINECANAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YAPpLdDZ9UgykBXJ4V3VeA","k":"ITz4XLX5_laXVwBKd-BZSA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
-#EXTINF:-1 tvg-id="EUROPA_EUROPA" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" group-title="ENTRETENIMIENTO",EUROPA EUROPA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tH8lffAxTQmn-DVcOr4dxg","k":"vcnxaWqC7nOY3Tp_qCMA4g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/ZHPqHRZ/tnthd.png" group-title="ENTRETENIMIENTO",TNT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-q0XIqV19Nnse3dNtjyHnA","k":"zwGEgwNEujatL_753S3Z0A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
-#EXTINF:-1 tvg-id="TNT_SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/1MfdpmM/tntseries.png" group-title="ENTRETENIMIENTO",TNT SERIES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XBTWrrGb8RPt-Rp7VEJTyw","k":"jXdtb5xchA6-iNdn3XMWkg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
-#EXTINF:-1 tvg-id="TNT_NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.ibb.co/jVMmjN6/descarga-8.png" group-title="ENTRETENIMIENTO",TNT NOVELAS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SaAXmwNK6JnLZ9ilg0GBqg","k":"SG4sbWmt6n4X8pYOjjZmEg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
-#EXTINF:-1 tvg-id="CINEMAX_HD" tvg-name="CINEMAX HD" tvg-logo="https://i.ibb.co/wzZgvLD/cinemax.webp" group-title="ENTRETENIMIENTO",CINEMAX HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"l3koqSuCujeBdBpkcPj0Ww","k":"UfTmKCfBKPchC3mhFYdmGg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg" group-title="ENTRETENIMIENTO",FX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mrnELHE-D7VRfcd8wZ1nVQ","k":"2MJxuCOH5gm2wZ5eeSQK_w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://i.ibb.co/YtxhdTM/co-space-hd.png" group-title="ENTRETENIMIENTO",SPACE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CULk7NG9NWfo-UR_RcIKEg","k":"78piZPBM9zc94MMOx5_pCQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
-#EXTINF:-1 tvg-id="STAR_CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/VHFMnkP/star-channel.png" group-title="ENTRETENIMIENTO",STAR CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gCPoXvnRdWHuG0JBebGxXg","k":"R3rRifH80rrsAmBoEH-GLw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
-#EXTINF:-1 tvg-id="SONY_CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://pelisjuanita.com/tv/logos/sony-channel.png" group-title="ENTRETENIMIENTO",SONY CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_ZYZ-dfC1RFaM5lBJ54LSw","k":"v1VjXmWR-QVln6J6s8ooEg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd
 #EXTINF:-1 tvg-id="SONY_CINE" tvg-name="SONY CINE" tvg-logo="https://pelisjuanita.com/tv/logos/sony-cine.png" group-title="ENTRETENIMIENTO",SONY CINE
 https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY_MOVIES" tvg-name="SONY MOVIES" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" group-title="ENTRETENIMIENTO",SONY MOVIES
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="SONY_NOVELAS" tvg-name="SONY NOVELAS" tvg-logo="https://pelisjuanita.com/tv/logos/sony-novelas.png" group-title="ENTRETENIMIENTO",SONY NOVELAS
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/N1nyvmH/axn.png" group-title="ENTRETENIMIENTO",AXN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A-d7W79RNahdWHxa8vL3MA","k":"HdGrGTinkdA_CeuIR4tIgA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg" group-title="ENTRETENIMIENTO",A&E
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2xIDVieks9cZi3YfNrSikA","k":"gMp2GodZkqwOULCFHVVj_g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/1TGDyyn/amc.png" group-title="ENTRETENIMIENTO",AMC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"H6aob9gLbRQl3edEgrXcnA","k":"dEw2NtV6ZRq0RM-f5flbMw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
-#EXTINF:-1 tvg-id="ATRESERIES" tvg-name="ATRESERIES" tvg-logo="https://i.ibb.co/4R0WQfr/a3s.png" group-title="ENTRETENIMIENTO",ATRESERIES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XjTgiuWuRA8BoD5QXdJKVw","k":"7TDMf1BAp11z9hkyAkknKw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd
-#EXTINF:-1 tvg-id="COMEDY_CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/GM5tY4R/comedy-central.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QBP3hMXvQxitRwJOYesJTg","k":"utQzpUf5fH9lzaXoO43UFg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd
-#EXTINF:-1 tvg-id="ATRESCINE" tvg-name="ATRESCINE" tvg-logo="https://i.ibb.co/RgWH92w/720x540-1.jpg" group-title="ENTRETENIMIENTO",ATRESCINE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1v-IGm8HmGqA1q1vBBtX1A","k":"tAHIfCqxGhpIjuHEdLEJrg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/8bgMYCy/tooncast.png" group-title="INFANTILES",TOONCAST
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EGOKci61TGS_sOendINoag","k":"QafT1SLhkhW36PYRtpAtYQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
 #EXTINF:-1 tvg-id="CLAN" tvg-name="Clan" tvg-logo="https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png" group-title="INFANTILES",Clan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"}
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="DISNEY_CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/vdfh1bd/disney-channel.png" group-title="INFANTILES",DISNEY CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SnQuR40UAj4Zk-AR2UFflA","k":"Dfd-3pvHRDdoNtIa-hN92g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
-#EXTINF:-1 tvg-id="DISNEY_JR." tvg-name="DISNEY JR." tvg-logo="https://i.ibb.co/KjzPznS/Disney-Jr.png" group-title="INFANTILES",DISNEY JR.
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vSnEpTjyiEXOM1gREXSUKA","k":"RtlYn0GhHDY3wHxgSVberA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/KN9K9xN/nickelodeon.png" group-title="INFANTILES",NICKELODEON
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YcGM7-zC0Ge-qp_xgTBTRQ","k":"ONb2UMv5o4_Z81wB-Y5keg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd
-#EXTINF:-1 tvg-id="NICK_JR." tvg-name="NICK JR." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="INFANTILES",NICK JR.
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6CSyJ3qG_WrfxAqpSOUGSg","k":"KNotu-jhoUY7uyOJW5Iggw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
 #EXTINF:-1 tvg-id="NICK_JR._CLUB" tvg-name="NICK JR. CLUB" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoSVG_1748329103439.svg" group-title="INFANTILES",NICK JR. CLUB
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-id="TEENNICK" tvg-name="TEENNICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="INFANTILES",TEENNICK
@@ -1841,208 +1086,10 @@ https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="NICKREWIND" tvg-name="NICKREWIND" tvg-logo="https://i.imgur.com/Bw8rdAb.png" group-title="INFANTILES",NICKREWIND
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="CARTOON_NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WHORIZONTAL.jpg?size=290x163" group-title="INFANTILES",CARTOON NETWORK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"199W76o2pxFB0jiFTMRtHQ","k":"irsu6RUNiyr46-wN4PgzyA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/rx04nzW/cartoonito.png" group-title="INFANTILES",CARTOONITO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"V5LmE_zraZx5y8DnX-TNNw","k":"pnJ5NzBHbtI-XBvOL_Vwxg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/sQVsMMN/discovery-kids.png" group-title="INFANTILES",DISCOVERY KIDS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_7Lw9jwjo1ktRlPpOLnKGQ","k":"02Ya6IH8Vfx6FYFc1Dl0ew"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd
 #EXTINF:-1 tvg-id="CANELA_KIDS" tvg-name="CANELA KIDS" tvg-logo="https://i.postimg.cc/6QCpWYqK/canela-kids.webp" group-title="INFANTILES",CANELA KIDS
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="INFANTILES",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1 tvg-id="PAKA_PAKA" tvg-name="PAKA PAKA" tvg-logo="https://i.ibb.co/GcBkPWT/paka-paka.png" group-title="INFANTILES",PAKA PAKA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"M0ABsvJkTfm9816S0rifjw","k":"R17IfYbtBjbbttbZ1KQ7tw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
-#EXTINF:-1 tvg-id="PLIM_PLIM" tvg-name="PLIM PLIM" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" group-title="INFANTILES",PLIM PLIM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jojhVy3NKzGhACZmjWKNYQ","k":"q5W9wmVa_09KjlEvtoyA3w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd
-#EXTINF:-1 tvg-id="KIDOO" tvg-name="KIDOO" tvg-logo="https://i.postimg.cc/vHPRwZy8/KID00.png" group-title="INFANTILES",KIDOO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3NiTN6UBq5KcAaA5d0CJ3A","k":"6WzHvpE5qNWBs_Xuvr_BDQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://i.ibb.co/10jGH2z/dreamworks.png" group-title="INFANTILES",DREAMWORKS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fzDEPkdURBIiH9ZCAdkvSw","k":"-D0J11oJRrHXGqSMIBtNiw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://i.ibb.co/qs3nD32/history.png" group-title="CULTURA",HISTORY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6CMY5Ri6cM6j17N775nmkg","k":"oF_LY0wHGlFOMDnhwnS02w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
-#EXTINF:-1 tvg-id="HISTORY_2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/S5wRHk1/H2-logo.png" group-title="CULTURA",HISTORY 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7L6X7DR4QwSzkKEro4VMzw","k":"Wg7jbtm4kgyxlUb9kvLUFQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/KhqSm7y/discovery-channel.png" group-title="CULTURA",DISCOVERY CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"woPISnrw18i5thKo-yKgAQ","k":"9FUQxyHuvW6qhqLhbMvXfQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_H&H" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/3fb7GMm/discovery-h-h-en-vivo.png" group-title="CULTURA",DISCOVERY H&H
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mwp23XoN8eG0MgrrElTRqQ","k":"0BEmd3XDjW0qsJtCjAPWPw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_ID" tvg-name="DISCOVERY ID" tvg-logo="https://i.ibb.co/x7y4DDx/Investigation-Discovery-Logo2020-svg.png" group-title="CULTURA",DISCOVERY ID
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVbK8uK9QfSf3OrXzJT-JA","k":"ZAxJV4BzqRGThhfrTmUtbA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/PQG6JkM/discovery-science-en-vivo.png" group-title="CULTURA",DISCOVERY SCIENCE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RrpAn7BOQPuGtGbZfjqViA","k":"8Sn7m10hPiDiq-UpuM8llw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/XSdhyxK/discovery-turbo-en-vivo.png" group-title="CULTURA",DISCOVERY TURBO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"phHdv4wV-mF6DDkct7PhKA","k":"DNEwC6-IkDgP1BEkliGVxA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/sCH8nhn/discovery-theater-en-vivo.png" group-title="CULTURA",DISCOVERY THEATER
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UnnAXqUcTa6Of6a-iESAiQ","k":"so36-6S4SN_V18F36_GRCA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_TLC" tvg-name="DISCOVERY TLC" tvg-logo="https://i.ibb.co/gdBSMj7/tlc.png" group-title="CULTURA",DISCOVERY TLC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WHYceygZSR6zoNdlhCw0Gg","k":"navEj4i9fyZnNOV1Ab1vRw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
-#EXTINF:-1 tvg-id="DISCOVERY_WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/k1bDtQS/discovery-world-en-vivo.png" group-title="CULTURA",DISCOVERY WORLD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NO6UwiYzRfejpZBmEmTkkA","k":"VnV9ZWpperei5eCDtdIbtQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
-#EXTINF:-1 tvg-id="NATIONAL_GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/tmGdKgj/natgeo.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"S-DGHO3cYilMyeI7Ynr1PQ","k":"hSwZNdEcPFPQoc7_O7O_Fg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
-#EXTINF:-1 tvg-id="ANIMAL_PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/Wz6HfRy/animal-planet.png" group-title="CULTURA",ANIMAL PLANET
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QUao7LsFQNyAfGOJ7ofgvA","k":"DDzcGz5GF8VzYSZen6TFvQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://78.47.174.211/logos/hgtv.png" group-title="CULTURA",HGTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Q7xqh-5PIaoyC6ALmApv2A","k":"vVUTBTmjD6odkLMULuvgsg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd
-#EXTINF:-1 tvg-id="SUN_CHANNEL" tvg-name="SUN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png" group-title="CULTURA",SUN CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FYF3aSqjRj6uX04fckA-nA","k":"HGwCb7qc9-y1dse-3ODq1A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd
-#EXTINF:-1 tvg-id="EL_GOURMET" tvg-name="EL GOURMET" tvg-logo="http://78.47.174.211/logos/elgourmet.png" group-title="CULTURA",EL GOURMET
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"k9hTrEyOJM8Clfb5fuU70w","k":"-lgX-rT7BUzOoau589dn7Q"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
 #EXTINF:-1 tvg-id="CANAL_VIX" tvg-name="Canal VIX" tvg-logo="https://i.postimg.cc/7PJ6pRNy/canal-vix.png" group-title="NOVELAS y VARIEDADES",Canal VIX
 https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8
 #EXTINF:-1 tvg-id="TELEMUNDO_INTERNACIONAL" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="NOVELAS y VARIEDADES",TELEMUNDO INTERNACIONAL
@@ -2124,116 +1171,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTHTTP:{"User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)", "Referer": "https://www.primevideo.com/"}
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="DEPORTES ON DEMAND",NBA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0MON48mETk6fl13_s-_4rQ","k":"FByg_fbrrfpxB1drjgnhFw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
-#EXTINF:-1 tvg-id="ESPN_PREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="DEPORTES ESPN",ESPN PREMIUM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TCMNvH9qS_pq0Kpz_3kjdA","k":"QYanwqFfWQqTmYhv6uxCVw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 #EXTINF:-1 tvg-id="ESPN_DEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="DEPORTES ESPN",ESPN DEPORTES
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="DEPORTES ESPN",ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6IS3EasRG-uKe6HnvL3Jvw","k":"y4nuOWFZnj5kilqtYIlfNA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
-#EXTINF:-1 tvg-id="ESPN_2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="DEPORTES ESPN",ESPN 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZaW_o8enLd5gvpsMdAbI_A","k":"C0Cun3inusO1fsv3LTwIHg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd?*
-#EXTINF:-1 tvg-id="ESPN_3" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="DEPORTES ESPN",ESPN 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9Mn5fio2_qsOUHfytEy8Tg","k":"F0PNA9_jc2ssldqRp4OvOA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
-#EXTINF:-1 tvg-id="ESPN_4" tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/pJK6xQ0/espn-4B.png" group-title="DEPORTES ESPN",ESPN 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zI1EQG7WvxiYrZ96LWTyng","k":"-4XQWWh6sPxngFgGIE7b3w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
-#EXTINF:-1 tvg-id="ESPN_5" tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/6bvjxGP/espn-5B.png" group-title="DEPORTES ESPN",ESPN 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JPKz50Hw2emo1Rb6_zi93A","k":"u9P9AvsQThRjrFKKE_Z-Sg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
-#EXTINF:-1 tvg-id="ESPN_6" tvg-name="ESPN 6" tvg-logo="https://i.ibb.co/CsyhPz4/espn-6B.png" group-title="DEPORTES ESPN",ESPN 6
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"X8e2YuacD7-NOWkRZrHJGQ","k":"iRV83SXfJdVvHszO44UIiA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
-#EXTINF:-1 tvg-id="ESPN_7" tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/LSQFzkw/espn-7B.png" group-title="DEPORTES ESPN",ESPN 7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"X8e2YuacD7-NOWkRZrHJGQ","k":"iRV83SXfJdVvHszO44UIiA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
-#EXTINF:-1 tvg-id="FOX_SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="DEPORTES FOX SPORTS",FOX SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"y8Kgx6ON8KozM81xhB07DQ","k":"qsYbcw4qwd8j8ehy51QcGw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
-#EXTINF:-1 tvg-id="FOX_SPORTS_2" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="DEPORTES FOX SPORTS",FOX SPORTS 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yY3f_EcP5EmuGo1kkhFpdg","k":"UIbTcOhAAQIyz0UysW4Zfw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
-#EXTINF:-1 tvg-id="FOX_SPORTS_3" tvg-name="FOX SPORTS 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="DEPORTES FOX SPORTS",FOX SPORTS 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VbRzkM-eSZfa5trIXgV4dQ","k":"-jnoVVQ8XXDzBgDVnl5MGw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
 #EXTINF:-1 tvg-id="FOX_SPORTS_MX" tvg-name="FOX SPORTS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="DEPORTES FOX SPORTS",FOX SPORTS MX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2292,32 +1231,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8
 #EXTINF:-1 tvg-id="FOX_XTRA_TUBI" tvg-name="FOX XTRA TUBI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s" group-title="DEPORTES FOX SPORTS",FOX XTRA TUBI
 https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8
-#EXTINF:-1 tvg-id="TNT_SPORTS_PREMIUM" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png" group-title="PACK FUTBOL ARGENTINO",TNT SPORTS PREMIUM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vID6PaaW5QP5QP3l9oGhxQ","k":"6kbk6fETLo3XH7d_fVUFig"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-#EXTINF:-1 tvg-id="TYC_SPORTS" tvg-name="TYC SPORTS" tvg-logo="https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WHORIZONTAL.jpg?size=290x163" group-title="PACK FUTBOL ARGENTINO",TYC SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KyHI-poynM4xGkxKSqmWoQ","k":"zCPqH7MmKfnh9IyN7q4-Ww"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
-#EXTINF:-1 tvg-id="TYC_SPORTS_INTERNACIONAL" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WHORIZONTAL.jpg?size=290x163" group-title="PACK FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WOHr512UT2qY6mexx8Clcg","k":"HDEbBp284xzo5ipufiQz6w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
 #EXTINF:-1 tvg-id="LPF_PLAY_1" tvg-name="LPF PLAY 1" tvg-logo="https://i.ibb.co/svBWVF6y/unnamed.png" group-title="PACK FUTBOL ARGENTINO",LPF PLAY 1
 https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/1d748831-1a31-462a-b89d-15cbe0e76e73/e91a6bc2-421d-427b-93b7-1df776fda8e4/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="LPF_PLAY_2" tvg-name="LPF PLAY 2" tvg-logo="https://i.ibb.co/svBWVF6y/unnamed.png" group-title="PACK FUTBOL ARGENTINO",LPF PLAY 2
@@ -3330,33 +2243,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"}
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1 tvg-id="FLOW_MUSIC" tvg-name="FLOW MUSIC" tvg-logo="https://i.ibb.co/jhrG266/flow-music.png" group-title="🎵MUSICALES🎵",FLOW MUSIC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sqrkSnQUS-iyEY4g0UErqw","k":"inrpltEtjV1WN9EET44Itw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
-#EXTINF:-1 tvg-id="FLOW_MUSIC_2" tvg-name="FLOW MUSIC 2" tvg-logo="https://i.ibb.co/hB8Tgvz/flow-music-1.png" group-title="🎵MUSICALES🎵",FLOW MUSIC 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"80zXcJ8JPSPU2wCRB9loYg","k":"2KgpE42XC0XoZ8lzOjGy8A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
-#EXTINF:-1 tvg-id="FLOW_MUSIC_3" tvg-name="FLOW MUSIC 3" tvg-logo="https://i.ibb.co/WD5sH68/flow-music-2.png" group-title="🎵MUSICALES🎵",FLOW MUSIC 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WWtZlYCzmuLzxBP36uNpAg","k":"LX49XTH2hpD9h3oRH4To4w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
 #EXTINF:-1 tvg-id="KBS_WORLD_K-POP" tvg-name="KBS WORLD K-POP" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s88-c-k-c0x00ffffff-no-rj" group-title="🎵MUSICALES🎵",KBS WORLD K-POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=F9wSag_AEnI
@@ -3500,15 +2386,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="STINGRAY_ICONCERTS" tvg-name="Stingray iConcerts" tvg-logo="https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png" group-title="🎵MUSICALES🎵",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="🎵MUSICALES🎵",HTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2uzvX-MvTOCDxqDGknVdag","k":"1CJ_JDiam6dykyFLk-sNfQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 #EXTINF:-1 tvg-id="VEVO_2K" tvg-name="VEVO 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="VEVO_POP" tvg-name="VEVO POP" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO POP
@@ -3699,56 +2576,11 @@ https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8
 https://video06.logicahost.com.br/retropluslive02/retropluslive02/playlist.m3u8
 #EXTINF:-1 tvg-id="RADIO_CAPITAL" tvg-name="RADIO CAPITAL" tvg-logo="https://i.postimg.cc/4xkSmztV/Radio-Capital-logo-2020-svg.png" group-title="🎵MUSICALES🎵",RADIO CAPITAL
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-id="QUIERO_MUSICA_TV" tvg-name="QUIERO MUSICA TV" tvg-logo="https://i.ibb.co/4mXYMzX/quiero.png" group-title="🎵MUSICALES🎵",QUIERO MUSICA TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"o1SwyCo6cgxKb1LtWhGQ9A","k":"RadtzITwWM-ryLlY1zA7KA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
-#EXTINF:-1 tvg-id="ALLEGROHD" tvg-name="ALLEGROHD" tvg-logo="https://i.ibb.co/ts85rN6/allegro.png" group-title="🎵MUSICALES🎵",ALLEGROHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5V5huBuZLWwhRmiR1yFX6Q","k":"Vm00G_cgmoiXbnXCCtesog"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd
-#EXTINF:-1 tvg-id="VORTERIX" tvg-name="VORTERIX" tvg-logo="https://i.ibb.co/39ttkz1H/Vorterix.jpg" group-title="🎵MUSICALES🎵",VORTERIX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6r4sIjUMJsfwrYSzSTLwjQ","k":"OfoGg27A+B2N2bbgGjBw4w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/HqPNtN1/mtv.png" group-title="🎵MUSICALES🎵",MTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DJ6z6tOKEirEYK2WqOv9Lg","k":"Zr-_pESeuLwbz3V31b_6rQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
 #EXTINF:-1 tvg-id="BILLBOARD_TV" tvg-name="Billboard TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/160/160/0/0/12050400077728.png" group-title="🎵MUSICALES🎵",Billboard TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36", "Referer": "https://webclient.ctcplus.com.ar/"}
 https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?
-#EXTINF:-1 tvg-id="CANAL_DE_LA_MUSICA" tvg-name="CANAL DE LA MUSICA" tvg-logo="https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png" group-title="🎵MUSICALES🎵",CANAL DE LA MUSICA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aC82tXNvRWCVHKFLgNKVJA","k":"Osy3KQZ6ObO4FD8bRHudJQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37", "Referer": "https://portal.app.flow.com.py/", "Origin": "https://portal.app.flow.com.py"}
-https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
 
 
 
