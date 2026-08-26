@@ -123,10 +123,8 @@ http://bestpmp.cloud:2052/202604dari26/2026dari3335/630380
 https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1  tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Argentina",LN +
 https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="Argentina",ARG| EL NUEVE HD
-http://libertadtv.lat:8080/Y0tCMnlOWDluR2IweFZNTDBVU2ZVNm5KM2x6Tmxma0trbFV1bDVJb1lFVT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="Argentina",ARG| EL NUEVE FHD
-http://libertadtv.lat:8080/Y0tCMnlOWDluR2IweFZNTDBVU2ZVNm1jK0NISHVTNVFYeVJieCtoWGt0az0
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="Argentina",El nueve HD
+http://138.59.227.20:8000/play/a08k/index.m3u8
 
 
 #EXTINF:-1 	tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Retro", Pasiones
@@ -137,6 +135,10 @@ http://168.197.196.98:82/stream/channelid/283862998?profile=pass
 http://38.199.5.160:8000/play/a0bi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/cinear-logo-png_seeklogo-462536.png" group-title="Retro",ARG| CINEAR  HD
 http://libertadtv.lat:8080/Y0tCMnlOWDluR2IweFZNTDBVU2ZVeWlZVEtTejR0WFN1UzAzbTdyQVFLbz0
+#EXTINF:11  tvg-logo="https://images.seeklogo.com/logo-png/46/1/cinear-logo-png_seeklogo-462536.png" group-title="Retro",Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:0 group-title="Retro" tvg-logo="https://i.imgur.com/V1xZV72.png",ciudad magazine
+http://138.59.227.20:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="Kids",Cartoonito
 http://177.10.184.193:8000/play/a03e/index.m3u8
