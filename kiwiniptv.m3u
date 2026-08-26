@@ -144,6 +144,10 @@ http://177.10.184.193:8000/play/a03e/index.m3u8
 http://177.10.184.193:8000/play/a02s/index.m3u8
 #EXTINF:-1  tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
 https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
+#EXTINF:0 group-title="Kids",Nick Jr
+http://45.170.130.224:8000/play/a03p/index.m3u8
+#EXTINF:11 group-title="Kids",Nickelodeon
+http://45.170.130.224:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", COSMOS TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
