@@ -1,15 +1,15 @@
 {
   "version": "0.0.5",
   "versionLite": "0.0.5",
-  "downloaderLink": "https://files.catbox.moe/c78s1w.apk",
-  "downloaderLinkLite": "https://files.catbox.moe/c78s1w.apk",
-  "downloaderCode": "8352132",
-  "downloaderCodeLite": "8352132",
+  "downloaderLink": "https://files.catbox.moe/9o81uz.apk",
+  "downloaderLinkLite": "https://files.catbox.moe/9o81uz.apk",
+  "downloaderCode": "6632842",
+  "downloaderCodeLite": "6632842",
   "costo": "60mil-AR",
   "publicidades": [
     {
       "clickUrl": "https://wa.me/543625215483",
-      "sponsorName": "GPS Inoog",
+      "sponsorName": "GPS Autos",
       "skipAfter": 7,
       "video": "https://i.imgur.com/R2DQ2gd.mp4"
     },
