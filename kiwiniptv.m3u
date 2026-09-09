@@ -47,22 +47,14 @@ http://libertadtv.lat:8080/Y0tCMnlOWDluR2IweFZNTDBVU2ZVenFaQkxVcW96eVhRYkR6MkxQS
 #EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="Deportes",ARG I T&C SPORTS SD
 http://libertadtv.lat:8080/Y0tCMnlOWDluR2IweFZNTDBVU2ZVekVKNTlzWnN5NExuVjA3aDlMdThBcz0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-name="ESPN" group-title="Deportes",ESPN
-http://177.10.184.193:8000/play/a053/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 (opc1)
 http://191.97.14.162:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes", ESPN 2 (opc2)
 http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.Arg.co" tvg-name="ESPN 2 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="Deportes",ESPN 2 (opc3)
 http://181.78.14.26:4000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD
-http://177.10.184.193:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" group-title="Deportes",ESPN 4
-http://177.10.184.193:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" group-title="Deportes",ESPN 5 HD
-http://177.10.184.193:8000/play/a0de/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" group-title="Deportes",ESPN 6 HD
-http://177.10.184.193:8000/play/a0dd/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes", 121 | ESPN
 http://siriustv.lat:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes", 122 | ESPN 2
@@ -92,24 +84,22 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Documentales Realidad",Discovery Science
-http://177.10.184.193:8000/play/a02m/index.m3u8
+http://179.1.199.50:9000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JKgcFR4.png"  group-title="Documentales Realidad",Discovery Channel HD
-http://177.10.184.193:8000/play/a0a4/index.m3u8
+http://179.1.199.50:9000/play/a05k/index.m3u8
+#EXTINF:0,Discovery Theater HD
+http://179.1.199.50:9000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Documentales Realidad",✔️ Animal Planet Discovery
 http://45.167.1.136:8000/play/a03i
 #EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="Documentales Realidad" ,History Channel
-http://177.10.184.193:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History HD" group-title="Documentales Realidad" ,History HD
-http://177.10.184.193:8000/play/a040/index.m3u8
+http://179.1.199.50:9000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" group-title="Documentales Realidad" ,Home & Health HD
-http://177.10.184.193:8000/play/a09o/index.m3u8
+http://179.1.199.50:9000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Argentina",TN HD
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina",Telefe(opc1)
-http://177.10.184.193:8000/play/a0ge/index.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina", Telefe(opc2)
 http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Argentina",TELEFE SD(opc3)
@@ -141,9 +131,9 @@ http://138.59.227.20:8000/play/a069/index.m3u8
 http://138.59.227.20:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="Kids",Cartoonito
-http://177.10.184.193:8000/play/a03e/index.m3u8
+http://179.1.199.50:9000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids HD
-http://177.10.184.193:8000/play/a02s/index.m3u8
+http://179.1.199.50:9000/play/a00s/index.m3u8
 #EXTINF:-1  tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png" group-title="Kids",Discovery Kids
 https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 #EXTINF:0 group-title="Kids",Nick Jr
@@ -156,13 +146,11 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" group-title="CINE Y SERIES",Space(opc2)
 https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES",TNT HD
-http://177.10.184.193:8000/play/a09m/index.m3u8
+http://179.1.199.50:9000/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES",TNT
 http://191.97.14.162:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT Series
-http://177.10.184.193:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="CINE Y SERIES",CineMax(OPC1)
-http://177.10.184.193:8000/play/a05u/index.m3u8
+http://179.1.199.50:9000/play/a022/index.m3u8
 #EXTINF:11 tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="CINE Y SERIES",Cinemax(OPC2)
 http://179.1.199.50:9000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="CINE Y SERIES",  CINEMAX(OPC3)
@@ -222,16 +210,7 @@ https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/ts
 https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/cb573d19726c638e84cc3778d1f04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ace00e13d964a1b8011d967914fa83439fd401ea89d15d83438471a71ccbc1a589d045d68cb159910ee435364c3b6d9cf21df9ab739780d7035a98782c34583fa2f497fa1964de154711fbfc9dee28ab17cbd968d86435ef4dc84a8636d23bfc5ca1b84ba2f7d5b520483ad6ac31070e81c7f1c7ac6f4ad70cfab2f9e2716997f2187d35a207b1212a3695f1ca5a90d54ffddc4089b97d6f5caaf36bbac7d8e98cb4835eee46a0a6a4c24a28216701148f5ea7a561da27da6da9c91653382726a8890fbbecb34b235d5f948948d51002cbaae1ecd11b37c65f0e49d770cb52136dcf2d36108f48fa952c7c885469ef546da12d5fed43eca813e6b3d4f70304a0cccb309b058d9b2be01763c31d54f3bc3e93563d66603fb5cd6e043c7cb13d8eb1f9c007c7847195b793f35c2d13315773018ef0ee739af4ab41a4e14d325404401f1a9346aa013398c4615cab3cfad6784680012822e8e73b58562cb4c1be838ed98024e739bba58c600a1c4bfa9211a55f6ca38ed48da10aeb340a7c8d0a764abe061571eb9bddec988761f45105c0374f1b79ccfc1b4046073d334ad3a761d95aed840ef9b5fe1c9dbfc3421ec50baa0f46ca8b9c74aeb9c8876e1f80a6522e6295f82ed13c7894409a78de9238f398612b30700044cb8551bf78bcdc91c862da0fa55d0c73ef37eac8b0fd862806a9c10a00320f5405761d237f5bf68983167511868b2ee859e9fc46e91304415869eac2510ec8b80d5ff653596faaa7c78ed7ba2018d861f970892d43915e032aeedb2ba8e496f6e98c7b5b10d3d5fa1de941e9532d7360404d4dc0c5f4fa298eeaab0ba233716613/112/1920x1080_6423560/index.m3u8
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://181.78.8.199:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA 
-http://177.10.184.193:8000/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY 
-http://177.10.184.193:8000/play/a09x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME 
-http://177.10.184.193:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER 
-http://177.10.184.193:8000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE 
-http://177.10.184.193:8000/play/a09v/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime Accion
