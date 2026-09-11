@@ -1,0 +1,13 @@
+{
+  "dailymotionPlaylists": [
+    {
+      "name": "1-Documentales",
+      "playlistId": "xd2r3a"
+    }
+  ],
+  "m3uSources": [
+    { "name": "Argentina", "url": "https://iptv-org.github.io/iptv/countries/ar.m3u", "groupOverride": "Argentina" },
+    { "name": "Armado", "url": "https://raw.githubusercontent.com/noreply1458/kiwintv/refs/heads/main/kiwiniptv.m3u", "groupOverride": null },
+    { "name": "Nico", "url": "https://raw.githubusercontent.com/nicocanelas12/lista/refs/heads/main/nico", "groupOverride": null }
+  ]
+}
