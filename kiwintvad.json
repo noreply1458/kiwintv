@@ -1,21 +1,21 @@
 {
-  "version": "0.0.8",
-  "versionLite": "0.0.8",
-  "downloaderLink": "https://files.catbox.moe/o1i768.apk",
-  "downloaderLinkLite": "https://files.catbox.moe/o1i768.apk",
-  "downloaderCode": "3575958",
-  "downloaderCodeLite": "3575958",
-  "costo": "60mil-AR",
+  "version": "0.0.9",
+  "versionLite": "0.0.9",
+  "downloaderLink": "https://files.catbox.moe/56bjb1.apk",
+  "downloaderLinkLite": "https://files.catbox.moe/56bjb1.apk",
+  "downloaderCode": "6790960",
+  "downloaderCodeLite": "6790960",
+  "costo": "50mil-AR",
   "publicidades": [
     {
       "clickUrl": "https://wa.me/543625215483",
-      "sponsorName": "GPS Autos",
+      "sponsorName": "GPS-Rastreo",
       "skipAfter": 7,
       "video": "https://i.imgur.com/R2DQ2gd.mp4"
     },
     {
       "clickUrl": "https://inoog.ar/",
-      "sponsorName": "www.inoog.ar",
+      "sponsorName": "inoog.ar Software",
       "skipAfter": 7,
       "video": "https://i.imgur.com/olj8u1E.mp4"
     }
