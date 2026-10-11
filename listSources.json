@@ -20,6 +20,8 @@
   "m3uSources": [
     { "name": "Argentina", "url": "https://iptv-org.github.io/iptv/countries/ar.m3u", "groupOverride": "Argentina" },
     { "name": "Armado", "url": "https://raw.githubusercontent.com/noreply1458/kiwintv/refs/heads/main/kiwiniptv.m3u", "groupOverride": null },
-    { "name": "PlayTV", "url": "https://ia800901.us.archive.org/7/items/prueba9_202607/prueba.9/prueba9.json", "groupOverride": null }
+    { "name": "PlayTV", "url": "https://ia800901.us.archive.org/7/items/prueba9_202607/prueba.9/prueba9.json", "groupOverride": null },
+    { "name": "plutoAr", "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u", "groupOverride": null },
+    { "name": "samsungtv", "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u", "groupOverride": null }
   ]
 }
