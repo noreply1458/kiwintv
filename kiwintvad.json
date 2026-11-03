@@ -1,11 +1,11 @@
 {
-  "version": "0.0.11",
-  "versionLite": "0.0.11",
-  "downloaderLink": "https://files.catbox.moe/jsk3av.apk",
-  "downloaderLinkLite": "https://files.catbox.moe/jsk3av.apk",
-  "downloaderCode": "9341306",
-  "downloaderCodeLite": "9341306",
-  "costo": "50mil-AR",
+  "version": "0.0.12",
+  "versionLite": "0.0.12",
+  "downloaderLink": "https://archive.org/download/kiwintv12/kiwintv12.apk",
+  "downloaderLinkLite": "https://archive.org/download/kiwintv12/kiwintv12.apk",
+  "downloaderCode": "5660867",
+  "downloaderCodeLite": "5660867",
+  "costo": "Publicita por $30mil-AR",
   "publicidades": [
     {
       "clickUrl": "https://wa.me/543625215483",
