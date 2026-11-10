@@ -1,10 +1,10 @@
 {
-  "version": "0.0.12",
-  "versionLite": "0.0.12",
-  "downloaderLink": "https://archive.org/download/kiwintv12/kiwintv12.apk",
-  "downloaderLinkLite": "https://archive.org/download/kiwintv12/kiwintv12.apk",
-  "downloaderCode": "5660867",
-  "downloaderCodeLite": "5660867",
+  "version": "0.0.13",
+  "versionLite": "0.0.13",
+  "downloaderLink": "https://archive.org/download/kiwintv13/kiwintv13.apk",
+  "downloaderLinkLite": "https://archive.org/download/kiwintv13/kiwintv13.apk",
+  "downloaderCode": "2643275",
+  "downloaderCodeLite": "2643275",
   "costo": "Publicita por $30mil-AR",
   "publicidades": [
     {
