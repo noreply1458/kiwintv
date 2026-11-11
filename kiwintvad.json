@@ -8,6 +8,12 @@
   "costo": "Publicita por $30mil-AR",
   "publicidades": [
     {
+      "clickUrl": "https://www.soberanos.com.ar/",
+      "sponsorName": "Soberanos AR",
+      "skipAfter": 7,
+      "video": "https://i.imgur.com/ab05mwM.mp4"
+    },
+    {
       "clickUrl": "https://wa.me/543625215483",
       "sponsorName": "GPS-Rastreo",
       "skipAfter": 7,
