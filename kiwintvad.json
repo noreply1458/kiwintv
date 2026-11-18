@@ -1,10 +1,10 @@
 {
   "version": "0.0.14",
   "versionLite": "0.0.14",
-  "downloaderLink": "https://archive.org/download/kiwintv14/kiwintv14.apk",
-  "downloaderLinkLite": "https://archive.org/download/kiwintv14/kiwintv14.apk",
-  "downloaderCode": "6772334",
-  "downloaderCodeLite": "6772334",
+  "downloaderLink": "https://archive.org/download/kiwintvlite14/kiwintvlite14.apk",
+  "downloaderLinkLite": "https://archive.org/download/kiwintvlite14/kiwintvlite14.apk",
+  "downloaderCode": "2847720",
+  "downloaderCodeLite": "2847720",
   "costo": "Publicita",
   "publicidades": [
     {
