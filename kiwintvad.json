@@ -1,11 +1,11 @@
 {
-  "version": "0.0.13",
-  "versionLite": "0.0.13",
-  "downloaderLink": "https://archive.org/download/kiwintv13/kiwintv13.apk",
-  "downloaderLinkLite": "https://archive.org/download/kiwintv13/kiwintv13.apk",
-  "downloaderCode": "2643275",
-  "downloaderCodeLite": "2643275",
-  "costo": "Publicita por $150mil-AR",
+  "version": "0.0.14",
+  "versionLite": "0.0.14",
+  "downloaderLink": "https://archive.org/download/kiwintv14/kiwintv14.apk",
+  "downloaderLinkLite": "https://archive.org/download/kiwintv14/kiwintv14.apk",
+  "downloaderCode": "6772334",
+  "downloaderCodeLite": "6772334",
+  "costo": "Publicita",
   "publicidades": [
     {
       "clickUrl": "https://www.soberanos.com.ar/",
