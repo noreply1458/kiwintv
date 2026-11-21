@@ -1,11 +1,11 @@
 {
   "version": "0.0.14",
   "versionLite": "0.0.14",
-  "downloaderLink": "https://archive.org/download/kiwintvlite14_202611/kiwinTVlite14.apk",
-  "downloaderLinkLite": "https://archive.org/download/kiwintvlite14_202611/kiwinTVlite14.apk",
-  "downloaderCode": "6815279",
-  "downloaderCodeLite": "6815279",
-  "costo": "Publicita",
+  "downloaderLink": "https://archive.org/download/kiwin-tv-lite-14/KiwinTvLite14.apk",
+  "downloaderLinkLite": "https://archive.org/download/kiwin-tv-lite-14/KiwinTvLite14.apk",
+  "downloaderCode": "7274605",
+  "downloaderCodeLite": "7274605",
+  "costo": "Más de 20mil usuarios.",
   "publicidades": [
     {
       "clickUrl": "https://www.soberanos.com.ar/",
